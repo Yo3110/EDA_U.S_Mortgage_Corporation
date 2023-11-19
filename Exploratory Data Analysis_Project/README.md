@@ -6,6 +6,8 @@
 ![image](https://github.com/Yo3110/EDA_U.S_Mortgage_Corporation/assets/143214362/2af938a3-ff66-491f-b740-fec935203dba)
 ![image](https://github.com/Yo3110/EDA_U.S_Mortgage_Corporation/assets/143214362/6f62dfb5-ab4c-4745-a0ea-6229636cf3b1)
 
+# Data Used
+Data: 
 
 ## Project Objectives
 
