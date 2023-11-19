@@ -1,0 +1,615 @@
+Loan_ID,First_Name,Last_Name,Full_Name,Gender,Married,Dependents,Education,Self_Employed,Applicant_Income,Coapplicant_Income,Loan_Amount,Loan_Amount_Term,Credit_History,Property_Area,LoaUnder Review_Status,County_ID,State_ID,State,City,Place,Type,Zip_code,Area_code
+LP001002,Emily,Smith,Emily Smith,Male,No,0,Graduate,No,572000,0,11000000,360,1,Urban,Approved,163,26,Michigan,Detroit,Dearborn Heights City,CDP,48239,313
+LP001003,Michael,Johnson,Michael Johnson,Male,Yes,1,Graduate,No,307600,150000,12600000,360,1,Rural,Under Review,1,23,Maine,Auburn,Auburn City,City,4210,207
+LP001005,Sarah,Brown,Sarah Brown,Male,Yes,0,Graduate,Yes,500000,180000,20800000,360,1,Urban,Approved,15,42,Pennsylvania,Pine City,Millerton,Borough,14871,607
+LP001006,John,Jones,John Jones,Male,Yes,0,Not Graduate,No,234000,254600,10000000,360,1,Urban,Approved,231,21,Kentucky,Monticello,Monticello City,City,42633,606
+LP001008,Jessica,Davis,Jessica Davis,Male,No,0,Graduate,No,327600,0,7800000,360,1,Urban,Approved,355,48,Texas,Corpus Christi,Edroy,Town,78410,361
+LP001011,David,Garcia,David Garcia,Male,Yes,2,Graduate,Yes,216500,342200,15200000,360,1,Urban,Approved,131,12,Florida,Destin,Miramar Beach,City,32541,850
+LP001013,Ashley,Rodriguez,Ashley Rodriguez,Male,Yes,0,Not Graduate,No,222600,0,5900000,360,1,Urban,Approved,187,13,Georgia,Dahlonega,Dahlonega City,City,30533,706
+LP001014,Robert,Martinez,Robert Martinez,Male,Yes,3,Graduate,No,388100,0,14700000,360,0,Semiurban,Under Review,5,36,New York,Bronx,Pelham Manor,City,10469,718
+LP001018,Jennifer,Miller,Jennifer Miller,Male,Yes,2,Graduate,No,1363300,0,28000000,360,1,Urban,Approved,29,6,California,Bakersfield,Oildale,City,93301,661
+LP001020,William,Johnson,William Johnson,Male,Yes,1,Graduate,No,240000,240000,12300000,360,1,Semiurban,Under Review,7,53,Washington,Cashmere,Cashmere City,Town,98815,509
+LP001024,Samantha,Wilson,Samantha Wilson,Male,Yes,2,Graduate,No,309100,0,9000000,360,1,Urban,Approved,63,17,Illinois,Morris,Morris City,Village,60450,815
+LP001027,James,Moore,James Moore,Male,Yes,2,Graduate,No,218500,151600,16200000,360,1,Urban,Approved,3,25,Massachusetts,Savoy,Adams,City,1256,413
+LP001028,Amanda,Taylor,Amanda Taylor,Male,Yes,2,Graduate,No,416600,0,4000000,360,1,Urban,Approved,510,24,Maryland,Baltimore,Baltimore City,CDP,21223,410
+LP001029,Christopher,Anderson,Christopher Anderson,Male,No,0,Graduate,No,1217300,0,16600000,360,1,Rural,Under Review,153,51,Virginia,Woodbridge,Lake Ridge,Town,22192,703
+LP001030,Elizabeth,Thomas,Elizabeth Thomas,Male,Yes,2,Graduate,No,466600,0,12400000,120,1,Urban,Approved,3,32,Nevada,Las Vegas,Spring Valley,City,89146,702
+LP001032,Daniel,Jackson,Daniel Jackson,Male,No,0,Graduate,No,566700,0,13100000,360,1,Urban,Approved,157,47,Tennessee,Memphis,Memphis City,City,38117,901
+LP001034,Lauren,White,Lauren White,Male,No,1,Not Graduate,No,458300,291600,20000000,240,1,Urban,Approved,33,53,Washington,Seattle,Bryn Mawr-skyway,Town,98118,206
+LP001036,Matthew,Harris,Matthew Harris,Female,No,0,Graduate,No,378600,33300,12600000,360,0,Urban,Under Review,3,32,Nevada,Las Vegas,Winchester,City,89119,702
+LP001038,Megan,Martin,Megan Martin,Male,Yes,0,Not Graduate,No,922600,791600,30000000,360,1,Rural,Under Review,65,6,California,Riverside,Riverside City,City,92505,951
+LP001041,Joseph,Thompson,Joseph Thompson,Male,Yes,0,Graduate,Yes,130000,347000,10000000,240,1,Urban,Approved,1,11,District of Columbia,Washington,Washington City,City,20037,202
+LP001043,Olivia,Garcia,Olivia Garcia,Male,Yes,0,Not Graduate,No,188800,162000,4800000,360,0,Urban,Under Review,15,5,Arkansas,Green Forest,Green Forest City,City,72638,870
+LP001046,Andrew,Martinez,Andrew Martinez,Male,Yes,1,Graduate,No,208300,0,2800000,360,1,Urban,Approved,21,25,Massachusetts,Bellingham,Bellingham,City,2019,508
+LP001047,Emily,Davis,Emily Davis,Male,Yes,0,Not Graduate,No,390900,0,10100000,360,0,Semiurban,Under Review,121,1,Alabama,Talladega,Talladega City,Town,35160,256
+LP001050,Nicholas,Rodriguez,Nicholas Rodriguez,Male,Yes,2,Not Graduate,No,376500,0,12500000,360,0,Rural,Under Review,125,47,Tennessee,Clarksville,Clarksville City,City,37042,931
+LP001052,Stephanie,Brown,Stephanie Brown,Male,Yes,1,Graduate,Yes,540000,438000,29000000,360,0,Semiurban,Under Review,29,6,California,Taft,South Taft,City,93268,661
+LP001066,Joshua,Jones,Joshua Jones,Male,Yes,0,Graduate,Yes,150000,2400000,14800000,360,1,Semiurban,Approved,115,55,Wisconsin,Gresham,Tilleda,City,54128,715
+LP001068,Nicole,Williams,Nicole Williams,Male,Yes,0,Graduate,No,436300,125000,14000000,360,1,Semiurban,Approved,285,13,Georgia,Hogansville,Hogansville City,City,30230,706
+LP001073,Tyler,Clark,Tyler Clark,Male,Yes,2,Not Graduate,No,750000,375000,27500000,360,1,Urban,Approved,451,48,Texas,San Angelo,San Angelo City,Town,76903,325
+LP001086,Kimberly,Lewis,Kimberly Lewis,Male,No,0,Not Graduate,No,377200,83300,5700000,360,1,Urban,Under Review,55,35,New Mexico,Red River,Red River,City,87558,555
+LP001087,Ryan,Lee,Ryan Lee,Female,No,2,Graduate,No,294200,238200,12500000,360,1,Semiurban,Approved,37,47,Tennessee,Nashville,Berry Hill City,City,37203,615
+LP001091,Rachel,Walker,Rachel Walker,Male,Yes,1,Graduate,Yes,247800,0,7500000,360,1,Urban,Under Review,201,48,Texas,Cypress,Tomball City,Town,77429,281
+LP001095,Brian,Hall,Brian Hall,Male,No,0,Graduate,No,625000,82000,19200000,360,1,Urban,Under Review,49,28,Mississippi,Jackson,Jackson City,CDP,39204,601
+LP001097,Michelle,Allen,Michelle Allen,Male,No,1,Graduate,Yes,326800,168300,15200000,360,1,Rural,Under Review,1,1,Alabama,Prattville,Prattville City,Town,36067,334
+LP001098,Kevin,Young,Kevin Young,Male,Yes,0,Graduate,No,278300,270800,15800000,360,1,Semiurban,Approved,87,28,Mississippi,Columbus,Columbus City,CDP,39702,662
+LP001100,Jennifer,Hernandez,Jennifer Hernandez,Male,No,3,Graduate,No,274000,154100,10100000,360,1,Rural,Under Review,153,39,Ohio,Cuyahoga Falls,Silver Lake,Village,44221,330
+LP001106,Thomas,King,Thomas King,Male,Yes,0,Graduate,No,315000,0,17600000,360,1,Urban,Approved,17,42,Pennsylvania,New Hope,New Hope,Borough,18938,215
+LP001109,Melissa,Wright,Melissa Wright,Male,Yes,0,Graduate,No,735000,402900,18500000,120,0,Urban,Under Review,113,48,Texas,Mesquite,Mesquite City,Town,75150,972
+LP001112,Eric,Hill,Eric Hill,Female,Yes,0,Graduate,No,226700,279200,9000000,360,1,Semiurban,Approved,13,6,California,El Cerrito,Kensington,City,94530,510
+LP001114,Rebecca,Scott,Rebecca Scott,Male,No,0,Graduate,No,583300,0,11600000,360,1,Urban,Approved,97,18,Indiana,Indianapolis,Lawrence City,City,46236,317
+LP001116,Timothy,Green,Timothy Green,Male,No,0,Not Graduate,No,364300,196300,13800000,360,1,Semiurban,Approved,245,13,Georgia,Augusta,Augusta-richmond,City,30906,706
+LP001119,Laura,Adams,Laura Adams,Male,No,0,Graduate,No,562900,81800,10000000,360,1,Urban,Under Review,91,30,Montana,Medicine Lake,Reserve,CDP,59247,406
+LP001120,Steven,Baker,Steven Baker,Male,No,0,Graduate,No,364400,0,11000000,360,1,Urban,Approved,31,17,Illinois,Park Ridge,Park Ridge City,Village,60068,847
+LP001123,Sarah,Gonzalez,Sarah Gonzalez,Male,Yes,0,Graduate,No,175000,202400,9000000,360,1,Urban,Approved,41,41,Oregon,Newport,Newport City,City,97365,541
+LP001131,Benjamin,Nelson,Benjamin Nelson,Male,Yes,0,Graduate,No,650000,260000,20000000,360,1,Semiurban,Approved,3,34,New Jersey,Palisades Park,Palisades Park,City,7650,201
+LP001136,Victoria,Carter,Victoria Carter,Male,Yes,0,Not Graduate,Yes,366600,0,8400000,360,1,Urban,Approved,25,25,Massachusetts,Cambridge,Cambridge City,City,2139,617
+LP001137,Nicholas,Mitchell,Nicholas Mitchell,Female,No,0,Graduate,No,426000,390000,18500000,240,1,Urban,Approved,31,17,Illinois,Chicago,Chicago City,Village,60614,773
+LP001138,Amanda,Perez,Amanda Perez,Male,Yes,1,Graduate,No,416300,147500,16200000,360,1,Urban,Approved,5,34,New Jersey,Mt   Holly,Pemberton Heights,City,8060,609
+LP001144,Jeffrey,Roberts,Jeffrey Roberts,Male,Yes,0,Graduate,No,235600,190200,10800000,360,1,Urban,Approved,31,36,New York,Lake Placid,Lake Placid,City,12946,518
+LP001146,Brittany,Turner,Brittany Turner,Female,Yes,0,Graduate,No,679200,333800,18700000,360,0,Urban,Under Review,35,39,Ohio,Cleveland,Linndale,Village,44135,216
+LP001151,Justin,Phillips,Justin Phillips,Female,No,0,Graduate,No,800000,25000,18700000,360,1,Semiurban,Approved,49,35,New Mexico,Moriarty,Moriarty City,City,87035,555
+LP001155,Amy,Campbell,Amy Campbell,Female,Yes,0,Not Graduate,No,241900,170700,12400000,360,1,Semiurban,Approved,91,17,Illinois,Kankakee,Kankakee City,Village,60901,815
+LP001157,Gregory,Parker,Gregory Parker,Female,No,0,Graduate,No,350000,83300,12000000,360,1,Semiurban,Approved,67,36,New York,Liverpool,Mattydale,City,13088,315
+LP001164,Mary,Evans,Mary Evans,Female,No,0,Graduate,No,350000,307700,16000000,360,1,Semiurban,Under Review,339,48,Texas,Magnolia,Stagecoach,Town,77355,281
+LP001179,Alexander,Edwards,Alexander Edwards,Male,Yes,2,Graduate,No,411600,100000,3000000,360,1,Urban,Under Review,201,48,Texas,Houston,Jacinto City City,Town,77011,713
+LP001186,Kayla,Collins,Kayla Collins,Female,Yes,1,Graduate,Yes,529300,0,9200000,360,0,Urban,Under Review,441,48,Texas,Abilene,Tye City,Town,79607,325
+LP001194,Jonathan,Stewart,Jonathan Stewart,Male,Yes,2,Graduate,No,275000,0,13000000,360,1,Semiurban,Approved,27,24,Maryland,Jessup,Savage,CDP,20794,410
+LP001195,Emily,Sanchez,Emily Sanchez,Male,Yes,0,Graduate,No,440200,0,13000000,360,1,Semiurban,Approved,27,25,Massachusetts,Spencer,Spencer,City,1562,508
+LP001197,Brandon,Morris,Brandon Morris,Male,Yes,0,Graduate,No,361300,353900,13400000,360,1,Rural,Under Review,183,37,North Carolina,Willow Spring,Angier,Village,27592,919
+LP001198,Crystal,Rogers,Crystal Rogers,Male,Yes,1,Graduate,No,277900,366400,17600000,360,1,Urban,Approved,51,22,Louisiana,Kenner,Kenner City,City,70065,504
+LP001199,Zachary,Reed,Zachary Reed,Male,Yes,2,Not Graduate,No,472000,0,9000000,360,1,Urban,Approved,73,42,Pennsylvania,Ellwood City,Ellwood City,Borough,16117,724
+LP001205,Tiffany,Cook,Tiffany Cook,Male,Yes,0,Graduate,No,241500,172100,11000000,360,1,Urban,Approved,71,28,Mississippi,Oxford,University,CDP,38655,662
+LP001206,Cody,Morgan,Cody Morgan,Male,Yes,3,Graduate,No,701600,29200,12500000,360,1,Urban,Approved,453,48,Texas,Austin,Wells Branch,Town,78759,512
+LP001207,Christine,Bell,Christine Bell,Male,Yes,0,Not Graduate,Yes,496800,0,18900000,180,0,Rural,Under Review,61,39,Ohio,Cincinnati,Turpin Hills,Village,45226,513
+LP001213,Caleb,Murphy,Caleb Murphy,Male,Yes,1,Graduate,No,210100,150000,10800000,360,0,Rural,Under Review,125,1,Alabama,Tuscaloosa,Tuscaloosa City,Town,35404,205
+LP001222,Heather,Bailey,Heather Bailey,Female,No,0,Graduate,No,449000,0,12500000,360,0,Semiurban,Under Review,47,36,New York,Brooklyn,New York City,City,11208,718
+LP001225,Benjamin,Rivera,Benjamin Rivera,Male,Yes,0,Graduate,No,291700,358300,13800000,360,1,Semiurban,Under Review,5,41,Oregon,Oregon City,Oregon City City,City,97045,503
+LP001228,Lisa,Cooper,Lisa Cooper,Male,No,0,Not Graduate,No,470000,0,13500000,180,0,Urban,Under Review,61,48,Texas,Brownsville,Reid Hope King,Town,78521,956
+LP001233,Patrick,Richardson,Patrick Richardson,Male,Yes,1,Graduate,No,344500,0,13000000,360,1,Urban,Approved,37,6,California,Los Angeles,West Hollywood City,City,90029,323
+LP001238,Erin,Cox,Erin Cox,Male,Yes,3,Not Graduate,Yes,766600,0,18700000,60,1,Urban,Approved,51,47,Tennessee,Winchester,Winchester City,City,37398,931
+LP001241,Samuel,Howard,Samuel Howard,Female,No,0,Graduate,No,245800,510500,18800000,360,0,Semiurban,Under Review,3,28,Mississippi,Corinth,Kossuth,CDP,38834,662
+LP001243,Julia,Ward,Julia Ward,Male,Yes,0,Graduate,No,325000,0,9500000,360,1,Urban,Approved,209,20,Kansas,Kansas City,Kansas City City,City,66104,913
+LP001245,Daniel,Torres,Daniel Torres,Male,Yes,2,Not Graduate,Yes,446300,0,6500000,360,1,Semiurban,Approved,1,11,District of Columbia,Washington,Washington City,City,20019,202
+LP001248,Angela,Peterson,Angela Peterson,Male,No,0,Graduate,No,408300,177500,13900000,300,1,Semiurban,Approved,35,39,Ohio,Lakewood,Lakewood City,Village,44107,216
+LP001250,Christian,Gray,Christian Gray,Male,Yes,3,Not Graduate,No,390000,209400,23200000,180,0,Semiurban,Under Review,415,48,Texas,Snyder,Snyder City,Town,79549,325
+LP001253,Christina,Ramirez,Christina Ramirez,Male,Yes,3,Graduate,Yes,475000,358300,14400000,360,1,Semiurban,Approved,79,45,South Carolina,Columbia,Forest Acres City,City,29205,803
+LP001255,Nathan,James,Nathan James,Male,No,0,Graduate,No,358300,343500,15500000,480,1,Urban,Under Review,193,17,Illinois,Carmi,Crossville,Village,62821,618
+LP001256,Patricia,Watson,Patricia Watson,Male,No,0,Graduate,No,318900,236700,18600000,360,1,Urban,Under Review,31,32,Nevada,Reno,Reno City,City,89509,775
+LP001259,Kelly,Kelly,Kelly Kelly,Male,Yes,1,Graduate,Yes,635600,0,5000000,360,1,Urban,Under Review,31,17,Illinois,Chicago,Lincolnwood,Village,60613,773
+LP001263,Jeremy,Sanders,Jeremy Sanders,Male,Yes,3,Graduate,No,341300,405300,0,300,0,Semiurban,Under Review,35,49,Utah,Salt Lake City,Millcreek,City,84106,385
+LP001264,Sandra,Price,Sandra Price,Male,Yes,3,Not Graduate,Yes,795000,0,18500000,360,0,Semiurban,Approved,13,4,Arizona,Phoenix,Phoenix City,CDP,85021,623
+LP001265,Cody,Bennett,Cody Bennett,Female,No,0,Graduate,No,382900,110300,16300000,360,1,Semiurban,Approved,3,44,Rhode Island,Warwick,Warwick City,CDP,2886,401
+LP001266,Ann,Wood,Ann Wood,Male,Yes,1,Graduate,Yes,7252900,0,36000000,360,1,Semiurban,Approved,37,6,California,Bell,Maywood City,City,90201,323
+LP001267,Sean,Barnes,Sean Barnes,Female,Yes,2,Graduate,No,413600,0,14900000,360,1,Urban,Under Review,35,34,New Jersey,Bridgewater,Green Knoll,City,8807,908
+LP001273,Cynthia,Ross,Cynthia Ross,Male,Yes,0,Graduate,No,844900,0,25700000,360,1,Semiurban,Under Review,153,72,Puerto Rico,Yauco,Lluveras,Urban,698,787
+LP001275,Alexander,Henderson,Alexander Henderson,Male,Yes,1,Graduate,No,445600,0,13100000,240,1,Urban,Approved,15,35,New Mexico,Carlsbad,Happy Valley,City,88220,505
+LP001279,Diane,Coleman,Diane Coleman,Male,No,0,Graduate,No,463500,800000,10200000,360,1,Semiurban,Approved,91,40,Oklahoma,Eufaula,Eufaula City,CDP,74432,918
+LP001280,Logan,Jenkins,Logan Jenkins,Male,Yes,2,Not Graduate,No,357100,191700,13500000,360,1,Semiurban,Approved,103,12,Florida,St. Petersburg,West Lealman,City,33709,727
+LP001282,Shannon,Perry,Shannon Perry,Male,Yes,0,Graduate,No,306600,0,9500000,360,1,Semiurban,Approved,119,37,North Carolina,Charlotte,Huntersville,Village,28269,980
+LP001289,Elijah,Powell,Elijah Powell,Male,No,0,Graduate,No,323500,201500,7700000,360,1,Urban,Approved,67,42,Pennsylvania,Thompsontown,Thompsontown,Borough,17094,717
+LP001310,Jessica,Long,Jessica Long,Male,Yes,0,Graduate,No,505800,0,20000000,360,1,Semiurban,Approved,47,36,New York,Brooklyn,New York City,City,11234,718
+LP001316,Dylan,Patterson,Dylan Patterson,Male,Yes,0,Graduate,No,318800,228600,13000000,360,1,Semiurban,Approved,29,42,Pennsylvania,East Fallowfield,Modena,Borough,19320,610
+LP001318,Sharon,Hughes,Sharon Hughes,Male,Yes,2,Graduate,No,1351800,0,39000000,180,1,Semiurban,Approved,67,13,Georgia,Kennesaw,Kennesaw City,City,30152,678
+LP001319,Aaron,Flores,Aaron Flores,Male,Yes,2,Not Graduate,No,436400,250000,18500000,360,1,Urban,Approved,45,42,Pennsylvania,Chadds Ford,Cheyney University,Borough,19317,610
+LP001322,Brenda,Washington,Brenda Washington,Male,No,0,Graduate,No,476600,164600,10000000,360,1,Semiurban,Approved,189,29,Missouri,St Louis,Olivette City,City,63132,314
+LP001325,Gabriel,Butler,Gabriel Butler,Male,No,0,Not Graduate,No,460900,233300,12300000,120,1,Semiurban,Approved,101,39,Ohio,Marion,Marion City,Village,43302,740
+LP001326,Amber,Simmons,Amber Simmons,Male,No,0,Graduate,No,626000,0,11000000,360,1,Urban,Under Review,61,53,Washington,N. Lakewood,Lake Goodwin,Town,98259,360
+LP001327,Devin,Foster,Devin Foster,Female,Yes,0,Graduate,No,333300,420000,25600000,360,1,Semiurban,Approved,125,29,Missouri,Vienna,Vienna City,City,65582,573
+LP001333,Karen,Gonzales,Karen Gonzales,Male,Yes,0,Graduate,No,350000,325000,14000000,360,1,Semiurban,Approved,19,41,Oregon,Camas Valley,Dillard,City,97416,541
+LP001334,Jordan,Bryant,Jordan Bryant,Male,Yes,0,Not Graduate,No,971900,0,6100000,180,1,Semiurban,Approved,7,34,New Jersey,Cherry Hill,Golden Triangle,City,8034,856
+LP001343,Pamela,Alexander,Pamela Alexander,Male,Yes,0,Graduate,No,683500,0,18800000,360,1,Semiurban,Approved,151,13,Georgia,Stockbridge,Stockbridge City,City,30281,770
+LP001345,Caleb,Russell,Caleb Russell,Male,Yes,2,Not Graduate,No,445200,0,13100000,180,1,Urban,Approved,123,27,Minnesota,Saint Paul,Falcon Heights City,City,55104,651
+LP001349,Cheryl,Griffin,Cheryl Griffin,Male,No,0,Graduate,No,226200,0,0,360,1,Semiurban,Approved,3,34,New Jersey,Cliffside Park,Cliffside Park,City,7010,201
+LP001350,Austin,Diaz,Austin Diaz,Male,Yes,0,Graduate,No,390100,0,11600000,360,1,Urban,Approved,169,31,Nebraska,Davenport,Carleton,Village,68335,402
+LP001356,Donna,Hayes,Donna Hayes,Male,Yes,0,Graduate,No,268700,0,5000000,360,1,Semiurban,Approved,85,17,Illinois,Elizabeth,Elizabeth,Village,61028,815
+LP001357,Colin,Myers,Colin Myers,Male,Yes,0,Graduate,No,224300,223300,10700000,360,1,Urban,Approved,21,25,Massachusetts,Quincy,Quincy City,City,2169,617
+LP001367,Marilyn,Ford,Marilyn Ford,Male,Yes,1,Graduate,No,341700,128700,20000000,360,1,Urban,Approved,21,25,Massachusetts,Weymouth,Weymouth Town City,City,2191,781
+LP001369,Luke,Hamilton,Luke Hamilton,Male,Yes,2,Graduate,No,159600,176000,11900000,360,1,Urban,Approved,93,47,Tennessee,Knoxville,Rockford City,City,37920,865
+LP001370,Betty,Graham,Betty Graham,Male,No,0,Not Graduate,Yes,451300,0,12000000,360,1,Rural,Under Review,73,6,California,San Diego,San Diego City,City,92111,858
+LP001379,Jackson,Sullivan,Jackson Sullivan,Male,Yes,2,Graduate,No,450000,0,14000000,360,0,Urban,Under Review,29,48,Texas,San Antonio,Castle Hills City,Town,78230,210
+LP001384,Dorothy,Wallace,Dorothy Wallace,Male,Yes,3,Not Graduate,No,452300,135000,16500000,480,1,Semiurban,Approved,71,6,California,Phelan,Mountain View Acres,City,92329,760
+LP001385,Victor,Woods,Victor Woods,Male,No,0,Graduate,No,474200,0,10800000,360,1,Urban,Approved,37,6,California,Huntington Park,Walnut Park,City,90255,323
+LP001387,Carol,Cole,Carol Cole,Female,Yes,0,Graduate,No,408200,0,9300000,360,1,Semiurban,Approved,67,21,Kentucky,Lexington,Lexington-fayette,City,40517,859
+LP001391,Mason,West,Mason West,Male,Yes,0,Not Graduate,No,341700,0,10200000,360,0,Rural,Under Review,81,1,Alabama,Phenix City,Smiths Station City,Town,36868,334
+LP001392,Debra,Jordan,Debra Jordan,Female,No,1,Graduate,Yes,292200,339600,12200000,360,1,Semiurban,Approved,510,29,Missouri,St Louis,Mackenzie,City,63109,314
+LP001398,Leo,Owens,Leo Owens,Male,No,0,Graduate,Yes,416700,475400,16000000,360,1,Semiurban,Approved,453,48,Texas,Austin,Sunset Valley City,Town,78745,512
+LP001401,Jane,Reynolds,Jane Reynolds,Male,Yes,1,Graduate,No,424300,412300,15700000,180,1,Rural,Approved,201,48,Texas,Houston,Jersey Village City,Town,77084,281
+LP001404,Xavier,Fisher,Xavier Fisher,Female,Yes,0,Graduate,No,100000,176000,18000000,360,1,Semiurban,Approved,355,48,Texas,Corpus Christi,Portland City,Town,78404,361
+LP001405,Alice,Ellis,Alice Ellis,Male,Yes,1,Graduate,No,151600,290000,8000000,360,1,Urban,Approved,127,26,Michigan,New Era,Rothbury,CDP,49446,231
+LP001421,#N/A,#N/A,#N/A,Male,Yes,0,Graduate,No,176200,266600,10400000,360,1,Rural,Under Review,29,42,Pennsylvania,Wayne,Chesterbrook,Borough,19087,610
+LP001422,Shirley,Medina,Shirley Medina,Female,No,0,Graduate,No,72400,351000,21300000,360,1,Urban,Approved,99,12,Florida,Lake Worth,Seminole Manor,City,33463,561
+LP001426,Owen,Fowler,Owen Fowler,Male,Yes,0,Graduate,No,312500,0,6500000,360,1,Rural,Approved,37,47,Tennessee,Nashville,Nashville-davidson Metropolitan Government,City,37209,615
+LP001430,Gail,Lawrence,Gail Lawrence,Female,No,0,Graduate,No,233300,380300,14600000,360,1,Semiurban,Approved,37,6,California,Los Angeles,Westmont,City,90044,323
+LP001431,Eli,Rodriguez,Eli Rodriguez,Female,No,0,Graduate,No,335000,156000,13500000,360,0,Semiurban,Approved,51,36,New York,Retsof,York Hamlet,City,14539,585
+LP001432,Elaine,Lewis,Elaine Lewis,Male,Yes,2,Graduate,No,250000,641400,18700000,360,1,Semiurban,Approved,85,48,Texas,Plano,Plano City,Town,75093,469
+LP001439,Cole,Diaz,Cole Diaz,Male,Yes,0,Not Graduate,No,1250000,0,30000000,360,1,Rural,Approved,3,32,Nevada,Las Vegas,Las Vegas City,City,89143,702
+LP001443,Frances,Hayes,Frances Hayes,Female,No,0,Graduate,No,466700,0,12000000,360,0,Rural,Approved,55,36,New York,Fairport,Fairport,City,14450,585
+LP001448,Evan,Myers,Evan Myers,Male,Yes,3,Graduate,No,650000,0,7100000,360,1,Rural,Approved,43,49,Utah,Coalville,Hoytsville,City,84017,435
+LP001449,Louise,Hamilton,Louise Hamilton,Male,No,0,Graduate,No,750000,0,22500000,360,1,Rural,Approved,43,41,Oregon,Albany,Albany City,City,97322,503
+LP001451,Leo,Graham,Leo Graham,Male,Yes,1,Graduate,Yes,307300,0,7000000,180,0,Urban,Under Review,3,15,Hawaii,Wahiawa,Schofield Barracks,CDP,96786,808
+LP001465,Norma,Bryant,Norma Bryant,Male,Yes,0,Graduate,No,332100,208800,7000000,360,0,Rural,Under Review,71,22,Louisiana,New Orleans,Jefferson,City,70122,504
+LP001469,Hunter,Russell,Hunter Russell,Male,No,0,Graduate,Yes,333300,127000,12400000,480,0,Urban,Approved,89,36,New York,Brasher Falls,Brasher Falls,City,13613,315
+LP001473,Theresa,Butler,Theresa Butler,Male,No,0,Graduate,No,339100,0,13200000,360,1,Urban,Approved,67,6,California,Sacramento,Rosemont,City,95820,916
+LP001478,Finn,Foster,Finn Foster,Male,No,0,Graduate,No,334300,151700,10500000,360,1,Semiurban,Approved,15,12,Florida,Rotonda West,Grove City,City,33947,941
+LP001482,Helen,Gonzales,Helen Gonzales,Male,Yes,0,Graduate,Yes,362000,0,9000000,120,1,Semiurban,Approved,3,42,Pennsylvania,Clairton,Clairton City,Borough,15025,412
+LP001487,Miles,Alexander,Miles Alexander,Male,No,0,Graduate,No,400000,0,8300000,360,1,Semiurban,Approved,303,48,Texas,Wolfforth,Wolfforth City,Town,79382,806
+LP001488,Evelyn,Simmons,Evelyn Simmons,Male,Yes,3,Graduate,No,425800,0,12500000,360,1,Semiurban,Under Review,79,55,Wisconsin,Milwaukee,St. Francis City,City,53207,414
+LP001489,Leo,Washington,Leo Washington,Female,Yes,0,Graduate,No,450000,0,14700000,360,1,Rural,Under Review,3,32,Nevada,Las Vegas,Paradise,City,89119,702
+LP001491,Grace,Flores,Grace Flores,Male,Yes,2,Graduate,Yes,201400,292500,12000000,360,1,Urban,Approved,25,51,Virginia,Lawrenceville,Gasburg,Town,23868,434
+LP001492,Isaac,Bryant,Isaac Bryant,Male,No,0,Graduate,No,333300,125000,11000000,360,0,Semiurban,Under Review,770,51,Virginia,Roanoke,Hollins,Town,24012,540
+LP001493,Rose,Myers,Rose Myers,Male,Yes,2,Not Graduate,No,408300,0,10300000,360,1,Rural,Under Review,165,39,Ohio,Lebanon,Lebanon City,Village,45036,513
+LP001497,Wesley,Ford,Wesley Ford,Male,Yes,2,Graduate,No,472700,0,15000000,360,1,Rural,Under Review,123,27,Minnesota,Mounds View,Mounds View City,City,55112,651
+LP001498,Clara,Diaz,Clara Diaz,Male,No,0,Graduate,No,308900,299900,10000000,360,1,Urban,Approved,11,17,Illinois,Tiskilwa,Tiskilwa,Village,61368,815
+LP001504,Jesse,Russell,Jesse Russell,Male,No,0,Graduate,Yes,679400,52800,13900000,180,1,Semiurban,Approved,31,17,Illinois,Glenview,Northfield,Village,60025,847
+LP001507,Ruby,Butler,Ruby Butler,Male,Yes,0,Graduate,No,3200000,0,55000000,360,1,Semiurban,Approved,27,25,Massachusetts,Worcester,Worcester City,City,1603,508
+LP001508,Landon,Sullivan,Landon Sullivan,Male,Yes,2,Graduate,No,1089000,0,26000000,180,1,Urban,Approved,25,25,Massachusetts,Dorchester,Quincy City,City,2122,617
+LP001514,Myrtle,Alexander,Myrtle Alexander,Female,Yes,0,Graduate,No,1294100,0,15000000,360,1,Semiurban,Approved,245,48,Texas,Beaumont,Beaumont City,Town,77705,409
+LP001516,Theo,Reyes,Theo Reyes,Female,Yes,2,Graduate,No,327600,0,9000000,360,1,Urban,Approved,3,42,Pennsylvania,Pittsburgh,Dormont,Borough,15226,412
+LP001518,Martha,Myers,Martha Myers,Male,Yes,1,Graduate,No,870300,0,19900000,360,1,Urban,Approved,31,17,Illinois,Chicago,Chicago City,Village,60624,773
+LP001519,Oliver,Hamilton,Oliver Hamilton,Female,No,0,Graduate,No,474200,71700,13900000,360,1,Rural,Under Review,59,51,Virginia,Alexandria,Huntington,Town,22303,703
+LP001520,Ruth,Ramirez,Ruth Ramirez,Male,Yes,0,Graduate,No,590000,0,15000000,360,1,Semiurban,Approved,53,53,Washington,Graham,Elk Plain,Town,98338,253
+LP001528,Eli,Bryant,Eli Bryant,Male,No,0,Graduate,No,307100,430900,18000000,360,0,Rural,Under Review,5,5,Arkansas,Mountain Home,Midway,City,72653,870
+LP001529,Hazel,Washington,Hazel Washington,Male,Yes,0,Graduate,Yes,278300,145600,11300000,360,1,Rural,Approved,31,17,Illinois,Dolton,Dolton,Village,60419,708
+LP001531,#N/A,#N/A,#N/A,Male,No,0,Graduate,No,500000,0,14800000,360,1,Urban,Under Review,37,6,California,San Pedro,Rolling Hills City,City,90732,310
+LP001532,Irene,Myers,Irene Myers,Male,Yes,2,Not Graduate,No,246300,236000,11700000,360,1,Rural,Under Review,65,26,Michigan,East Lansing,East Lansing City,CDP,48823,517
+LP001535,Jack,Jackson,Jack Jackson,Male,No,0,Graduate,No,485500,0,7200000,360,1,Urban,Approved,59,45,South Carolina,Fountain Inn,Fountain Inn City,City,29644,864
+LP001536,Vera,Simmons,Vera Simmons,Male,Yes,3,Graduate,No,159900,247400,12500000,180,0,Semiurban,Approved,69,6,California,Hollister,Hollister City,City,95023,831
+LP001541,Jackson,Butler,Jackson Butler,Male,Yes,1,Graduate,No,424600,424600,21400000,360,0,Rural,Approved,141,55,Wisconsin,Wisconsin Rapids,Biron,City,54494,715
+LP001543,Annie,Foster,Annie Foster,Male,Yes,1,Graduate,No,433300,229100,13300000,360,1,Urban,Approved,57,12,Florida,Wimauma,Wimauma,City,33598,813
+LP001546,Nolan,Alexander,Nolan Alexander,Male,No,0,Graduate,No,582300,252900,18700000,360,1,Rural,Approved,43,41,Oregon,Scio,Crabtree,City,97374,503
+LP001552,Florence,Gonzalez,Florence Gonzalez,Male,Yes,0,Graduate,No,789500,0,14300000,360,1,Semiurban,Approved,3,42,Pennsylvania,Pittsburgh,Upper St. Clair,Borough,15241,412
+LP001560,Theodore,Hayes,Theodore Hayes,Male,Yes,0,Not Graduate,No,415000,425600,20900000,360,1,Semiurban,Approved,281,48,Texas,Lampasas,Lampasas City,Town,76550,512
+LP001562,Audrey,Myers,Audrey Myers,Male,Yes,0,Graduate,No,296400,0,8400000,360,1,Urban,Under Review,75,40,Oklahoma,Hobart,Hobart City,CDP,73651,580
+LP001565,Harrison,Johnson,Harrison Johnson,Male,Yes,1,Graduate,No,558300,0,11600000,360,0,Semiurban,Under Review,113,48,Texas,Dallas,Dallas City,Town,75227,972
+LP001570,Louise,Russell,Louise Russell,Male,Yes,2,Graduate,No,270800,0,6500000,360,1,Rural,Approved,61,39,Ohio,Cincinnati,Cincinnati City,Village,45214,513
+LP001572,Levi,Diaz,Levi Diaz,Male,Yes,0,Graduate,No,318000,237000,8000000,180,1,Urban,Approved,55,36,New York,Rochester,Rochester City,City,14609,585
+LP001574,Lillian,Griffin,Lillian Griffin,Male,Yes,0,Graduate,No,226800,0,17000000,240,1,Rural,Approved,439,48,Texas,Keller,Watauga City,Town,76248,817
+LP001577,Carson,Bryant,Carson Bryant,Female,Yes,0,Graduate,No,114100,201700,12000000,360,1,Rural,Under Review,23,34,New Jersey,East Brunswick,Milltown,City,8816,732
+LP001578,Edith,Gonzalez,Edith Gonzalez,Male,Yes,0,Graduate,No,304200,316700,13500000,360,1,Rural,Approved,101,12,Florida,New Port Richey,Beacon Square,City,34652,727
+LP001579,Cooper,Foster,Cooper Foster,Male,No,0,Graduate,No,175000,293500,9400000,480,0,Semiurban,Under Review,3,8,Colorado,Mosca,Alamosa East,City,81146,719
+LP001580,Agnes,Myers,Agnes Myers,Male,Yes,2,Graduate,No,356400,0,7900000,360,1,Semiurban,Approved,29,6,California,Ridgecrest,China Lake Acres,City,93555,760
+LP001581,Evan,Hamilton,Evan Hamilton,Male,Yes,0,Not Graduate,No,395800,0,11000000,360,1,Rural,Approved,37,6,California,Sherman Oaks,West Hollywood City,City,91423,818
+LP001585,Esther,Jordan,Esther Jordan,Female,Yes,3,Graduate,No,448300,0,13000000,300,1,Urban,Approved,49,26,Michigan,Flint,Beecher,CDP,48504,810
+LP001586,Wyatt,Alexander,Wyatt Alexander,Male,Yes,3,Not Graduate,No,522500,0,14300000,180,1,Rural,Under Review,86,12,Florida,Miami,University Park,City,33184,305
+LP001594,Evelyn,Sullivan,Evelyn Sullivan,Male,Yes,0,Graduate,No,301700,284500,15900000,360,1,Semiurban,Approved,89,18,Indiana,Indianapolis,Gary City,City,46202,219
+LP001603,Oliver,Gonzalez,Oliver Gonzalez,Male,Yes,0,Not Graduate,Yes,243100,182000,11000000,360,1,Semiurban,Under Review,81,6,California,San Mateo,San Mateo City,City,94402,650
+LP001606,Mildred,Butler,Mildred Butler,Male,Yes,0,Graduate,No,491200,461400,16000000,360,1,Rural,Approved,31,17,Illinois,Chicago,Chicago City,Village,60642,312
+LP001608,Benjamin,Myers,Benjamin Myers,Male,Yes,2,Graduate,No,250000,333300,13100000,360,1,Rural,Approved,27,25,Massachusetts,Millbury,Worcester City,City,1527,508
+LP001610,Hattie,Bryant,Hattie Bryant,Male,Yes,3,Graduate,No,291800,0,6500000,360,0,Semiurban,Under Review,99,29,Missouri,Hillsboro,Cedar Hill Lakes,City,63050,636
+LP001616,#N/A,#N/A,#N/A,Male,Yes,1,Graduate,No,512800,0,14300000,360,1,Semiurban,Approved,39,29,Missouri,Stockton,Umber View Heights,City,65785,417
+LP001630,Opal,Hayes,Opal Hayes,Male,No,0,Not Graduate,No,1531200,0,18700000,480,0,Urban,Under Review,105,12,Florida,Bowling Green,Bowling Green City,City,33834,863
+LP001633,Caleb,Washington,Caleb Washington,Male,Yes,1,Graduate,No,395800,263200,16000000,360,0,Urban,Under Review,73,6,California,San Diego,Coronado City,City,92107,619
+LP001634,Pearl,Simmons,Pearl Simmons,Male,No,0,Graduate,No,433400,294500,16500000,360,0,Rural,Under Review,85,36,New York,Staten Island,New York City,City,10314,718
+LP001636,Andrew,Alexander,Andrew Alexander,Male,Yes,0,Graduate,No,435800,0,11000000,180,1,Semiurban,Approved,39,41,Oregon,Eugene,Eugene City,City,97402,541
+LP001637,Eileen,Foster,Eileen Foster,Male,Yes,1,Graduate,No,400000,391700,17300000,360,1,Semiurban,Under Review,119,37,North Carolina,Charlotte,Huntersville,Village,28216,980
+LP001639,Samuel,Diaz,Samuel Diaz,Female,Yes,0,Graduate,No,1016600,75000,15000000,360,1,Semiurban,Approved,143,17,Illinois,Peoria Heights,Peoria Heights,Village,61616,309
+LP001640,Joyce,Myers,Joyce Myers,Male,Yes,0,Graduate,Yes,448300,0,13500000,360,1,Semiurban,Approved,11,12,Florida,Davie,Davie,City,33328,754
+LP001641,Adam,Bryant,Adam Bryant,Male,Yes,1,Graduate,Yes,452100,118400,15000000,300,0,Rural,Under Review,67,37,North Carolina,Winston Salem,Bethania,Village,27105,336
+LP001643,Lois,Myers,Lois Myers,Male,Yes,0,Graduate,No,916700,0,23500000,360,0,Rural,Approved,61,12,Florida,Vero Beach,Gifford,City,32960,772
+LP001644,#N/A,#N/A,#N/A,Male,Yes,0,Graduate,Yes,1308300,0,0,360,1,Rural,Approved,33,28,Mississippi,Southaven,Southaven City,CDP,38671,662
+LP001647,Ethel,Russell,Ethel Russell,Female,Yes,0,Graduate,No,787400,396700,33600000,180,1,Rural,Approved,15,45,South Carolina,Moncks Corner,Moncks Corner,City,29461,843
+LP001653,Charles,Griffin,Charles Griffin,Male,No,0,Not Graduate,No,433300,0,13200000,360,1,Rural,Approved,5,36,New York,Bronx,Mount Vernon City,City,10452,718
+LP001656,Grace,Bryant,Grace Bryant,Male,No,0,Graduate,No,408300,0,9600000,360,1,Semiurban,Under Review,83,6,California,Santa Barbara,Mission Canyon,City,93110,805
+LP001657,Theodore,Washington,Theodore Washington,Male,Yes,0,Not Graduate,No,378500,291200,18000000,360,1,Urban,Under Review,61,35,New Mexico,Belen,Jarales,City,87002,505
+LP001658,Mae,Hayes,Mae Hayes,Male,No,0,Graduate,No,265400,199800,12800000,360,1,Semiurban,Approved,111,17,Illinois,Richmond,Richmond,Village,60071,815
+LP001664,Louis,Myers,Louis Myers,Male,No,0,Graduate,No,1000000,269000,41200000,360,1,Rural,Approved,157,47,Tennessee,Memphis,Bartlett City,City,38128,901
+LP001665,Alberta,Hamilton,Alberta Hamilton,Male,Yes,1,Graduate,No,583300,0,11600000,360,1,Semiurban,Under Review,157,18,Indiana,Lafayette,West Lafayette City,City,47905,765
+LP001666,Jesse,Graham,Jesse Graham,Male,No,0,Graduate,No,479600,0,11400000,360,1,Rural,Approved,33,41,Oregon,Grants Pass,Grants Pass City,City,97527,541
+LP001669,Marjorie,Bryant,Marjorie Bryant,Female,No,0,Not Graduate,No,200000,160000,11500000,180,1,Urban,Approved,197,17,Illinois,Frankfort,Frankfort,Village,60423,815
+LP001671,Edward,Diaz,Edward Diaz,Female,Yes,0,Graduate,No,254000,70000,10400000,360,0,Semiurban,Approved,13,25,Massachusetts,Chicopee,West Springfield Town City,City,1013,413
+LP001673,Rosemary,Russell,Rosemary Russell,Male,No,0,Graduate,Yes,190000,144200,8800000,360,1,Urban,Under Review,125,26,Michigan,Birmingham,Birmingham City,CDP,48009,248
+LP001674,Julian,Myers,Julian Myers,Male,Yes,1,Not Graduate,No,870600,0,10800000,360,1,Semiurban,Approved,5,25,Massachusetts,East Freetown,Fall River City,City,2717,508
+LP001677,Marlene,Alexander,Marlene Alexander,Male,No,2,Graduate,No,285500,54200,9000000,360,0,Semiurban,Approved,97,18,Indiana,Indianapolis,Rocky Ripple,City,46205,317
+LP001682,Gabriel,Simmons,Gabriel Simmons,Male,Yes,3,Not Graduate,No,301600,130000,10000000,180,1,Urban,Under Review,141,47,Tennessee,Cookeville,Cookeville City,City,38506,931
+LP001688,Gertrude,Butler,Gertrude Butler,Male,Yes,1,Not Graduate,No,315900,237400,10800000,360,1,Urban,Approved,59,36,New York,Inwood,Inwood,City,11096,516
+LP001691,Xavier,Foster,Xavier Foster,Male,Yes,2,Not Graduate,No,193700,115200,7800000,360,1,Semiurban,Approved,3,34,New Jersey,Paramus,Paramus,City,7652,201
+LP001692,Viola,Johnson,Viola Johnson,Female,No,0,Not Graduate,No,261300,241700,12300000,360,1,Semiurban,Approved,99,39,Ohio,Youngstown,Youngstown City,Village,44504,330
+LP001693,Caleb,Bryant,Caleb Bryant,Female,No,0,Graduate,No,496000,260000,18700000,360,1,Urban,Approved,65,6,California,Temecula,Temecula City,City,92592,951
+LP001698,Patricia,Gonzalez,Patricia Gonzalez,Male,No,0,Not Graduate,No,307400,108300,14600000,360,1,Rural,Approved,55,31,Nebraska,Omaha,Chalco,Village,68137,402
+LP001699,Elijah,Hayes,Elijah Hayes,Male,No,0,Graduate,No,421300,0,8000000,360,1,Urban,Approved,17,34,New Jersey,Jersey City,Hoboken City,City,7307,201
+LP001702,Sylvia,Myers,Sylvia Myers,Male,No,0,Graduate,No,203800,402700,10000000,360,1,Semiurban,Under Review,99,19,Iowa,Newton,Lambs Grove City,City,50208,641
+LP001708,Lincoln,Robinson,Lincoln Robinson,Female,No,0,Graduate,No,236200,0,5500000,360,1,Semiurban,Under Review,179,37,North Carolina,Waxhaw,Waxhaw,Village,28173,704
+LP001711,Joan,Alexander,Joan Alexander,Male,Yes,3,Graduate,No,533300,240000,20000000,360,0,Semiurban,Under Review,57,12,Florida,Tampa,Thonotosassa,City,33647,813
+LP001713,Christopher,Foster,Christopher Foster,Male,Yes,1,Graduate,Yes,538400,0,15000000,360,1,Urban,Approved,79,45,South Carolina,Columbia,Forest Acres City,City,29205,803
+LP001715,Dolores,Diaz,Dolores Diaz,Male,Yes,3,Not Graduate,Yes,570800,0,15000000,360,1,Rural,Approved,113,48,Texas,Dallas,University Park City,Town,75220,972
+LP001716,Anthony,Simmons,Anthony Simmons,Male,Yes,0,Graduate,No,375400,371900,11800000,360,1,Urban,Approved,29,48,Texas,San Antonio,Balcones Heights City,Town,78228,210
+LP001720,Loretta,Myers,Loretta Myers,Male,Yes,3,Not Graduate,No,291400,213000,15000000,360,1,Semiurban,Approved,3,9,Connecticut,Enfield,Southwood Acres,CDP,6082,860
+LP001722,Gabriel,Washington,Gabriel Washington,Male,Yes,0,Graduate,No,274700,245800,11800000,360,1,Rural,Under Review,35,49,Utah,Salt Lake City,Cottonwood Heights City,City,84121,801
+LP001726,Lois,Bryant,Lois Bryant,Male,Yes,0,Graduate,No,783000,218300,21200000,360,1,Semiurban,Approved,73,6,California,San Diego,Fairbanks Ranch,City,92129,858
+LP001732,Zachary,Griffin,Zachary Griffin,Male,Yes,2,Graduate,Yes,350700,314800,21200000,360,0,Semiurban,Under Review,135,13,Georgia,Norcross,Norcross City,City,30093,770
+LP001734,Marilyn,Diaz,Marilyn Diaz,Female,Yes,2,Graduate,No,374700,213900,12500000,360,0,Semiurban,Approved,3,9,Connecticut,Windsor Locks,Windsor Locks,CDP,6096,860
+LP001736,Sebastian,Russell,Sebastian Russell,Male,Yes,0,Graduate,No,216600,216600,10800000,360,0,Urban,Under Review,13,34,New Jersey,Maplewood,East Orange City,City,7040,973
+LP001743,Phyllis,Myers,Phyllis Myers,Male,Yes,2,Graduate,No,350000,216800,14900000,360,1,Semiurban,Approved,89,13,Georgia,Atlanta,Druid Hills,City,30306,404
+LP001744,Vincent,Hayes,Vincent Hayes,Male,No,0,Graduate,No,289600,0,8000000,360,1,Semiurban,Approved,9,12,Florida,Melbourne,Melbourne City,City,32935,321
+LP001749,Arlene,Bryant,Arlene Bryant,Male,Yes,0,Graduate,No,506200,0,15200000,360,1,Semiurban,Approved,3,10,Delaware,Newark,Brookside,Town,19711,302
+LP001750,Dominic,Alexander,Dominic Alexander,Male,Yes,0,Graduate,No,518400,0,18700000,360,1,Semiurban,Approved,99,51,Virginia,King George,King George,Town,22485,540
+LP001751,Norma,Myers,Norma Myers,Male,Yes,0,Graduate,No,254500,0,7400000,360,1,Rural,Under Review,13,4,Arizona,Mesa,Mesa City,CDP,85206,480
+LP001754,Nathaniel,Simmons,Nathaniel Simmons,Male,Yes,1,Not Graduate,Yes,255300,176800,10200000,360,1,Urban,Under Review,37,6,California,Santa Monica,Santa Monica City,City,90404,310
+LP001758,Jean,Hamilton,Jean Hamilton,Male,Yes,2,Graduate,No,343600,380900,10000000,360,1,Semiurban,Approved,39,22,Louisiana,Ville Platte,Ville Platte City,City,70586,337
+LP001760,Isaiah,Johnson,Isaiah Johnson,Male,Yes,2,Graduate,No,241200,275500,13000000,480,1,Semiurban,Approved,23,4,Arizona,Nogales,Nogales City,CDP,85621,520
+LP001761,Beverly,Hayes,Beverly Hayes,Male,No,0,Graduate,Yes,518000,0,12500000,360,1,Rural,Approved,33,53,Washington,Mercer Island,Mercer Island City,Town,98040,206
+LP001765,Julian,Myers,Julian Myers,Male,Yes,1,Graduate,No,1491100,1450700,13000000,360,1,Semiurban,Approved,79,42,Pennsylvania,Nanticoke,Nanticoke City,Borough,18634,570
+LP001768,Nadine,Bryant,Nadine Bryant,Male,Yes,0,Graduate,Yes,286000,298800,13800000,180,1,Rural,Approved,99,39,Ohio,New Middletown,New Middletown,Village,44442,330
+LP001770,Max,Diaz,Max Diaz,Male,No,0,Not Graduate,No,117300,159400,2800000,180,1,Rural,Approved,105,36,New York,Grahamsville,Loch Sheldrake,City,12740,845
+LP001776,Geraldine,Gonzalez,Geraldine Gonzalez,Female,No,0,Graduate,No,760000,0,9200000,360,1,Semiurban,Approved,439,48,Texas,Bedford,Bedford City,Town,76021,817
+LP001778,Josiah,Griffin,Josiah Griffin,Male,Yes,1,Graduate,No,215700,178800,10400000,360,1,Semiurban,Approved,111,21,Kentucky,Louisville,Hollyvilla City,City,40214,502
+LP001784,Marie,Russell,Marie Russell,Male,Yes,1,Graduate,No,223100,277400,17600000,360,1,Rural,Approved,75,6,California,San Francisco,Daly City City,City,94103,415
+LP001786,Eli,Butler,Eli Butler,Male,Yes,0,Graduate,No,227400,521100,11700000,360,0,Urban,Under Review,97,6,California,Santa Rosa,Santa Rosa City,City,95405,707
+LP001788,Elaine,Foster,Elaine Foster,Female,No,0,Graduate,Yes,616600,1398300,10200000,360,0,Urban,Approved,550,51,Virginia,Chesapeake,Chesapeake City,Town,23323,757
+LP001790,#N/A,#N/A,#N/A,Female,No,1,Graduate,No,251300,111000,10700000,360,1,Rural,Approved,73,6,California,San Diego,Fairbanks Ranch,City,92126,858
+LP001792,Ruby,Bryant,Ruby Bryant,Male,Yes,1,Graduate,No,433300,0,6600000,360,1,Semiurban,Approved,43,40,Oklahoma,Taloga,Oakwood,CDP,73667,580
+LP001798,Hudson,Washington,Hudson Washington,Male,Yes,2,Graduate,No,384400,0,10500000,360,1,Rural,Approved,5,36,New York,Bronx,Mount Vernon City,City,10452,718
+LP001800,Harriet,Hayes,Harriet Hayes,Male,Yes,1,Not Graduate,No,388700,151700,10500000,180,1,Urban,Under Review,29,48,Texas,San Antonio,Olmos Park City,Town,78210,210
+LP001806,Micah,Alexander,Micah Alexander,Male,No,0,Graduate,No,351000,82800,10500000,60,1,Urban,Approved,97,19,Iowa,Maquoketa,Maquoketa City,City,52060,563
+LP001807,Jane,Diaz,Jane Diaz,Male,Yes,2,Graduate,Yes,253900,170400,12500000,360,1,Rural,Approved,453,48,Texas,Elgin,Coupland City,Town,78621,512
+LP001811,Greyson,Foster,Greyson Foster,Male,Yes,0,Not Graduate,No,210700,0,6400000,360,1,Semiurban,Approved,39,6,California,Madera,Madera City,City,93637,559
+LP001813,Clara,Simmons,Clara Simmons,Male,No,0,Graduate,Yes,318600,314500,15000000,180,1,Urban,Under Review,65,72,Puerto Rico,Hatillo,Hatillo,Urban,659,787
+LP001814,Easton,Bryant,Easton Bryant,Male,Yes,2,Graduate,No,500000,216600,15000000,360,1,Urban,Approved,3,34,New Jersey,East Rutherford,East Rutherford,City,7073,201
+LP001819,Ruth,Griffin,Ruth Griffin,Male,Yes,1,Not Graduate,No,1000000,0,0,180,1,Urban,Approved,23,34,New Jersey,Plainsboro,Princeton Meadows,City,8536,609
+LP001824,Garrett,Myers,Garrett Myers,Male,Yes,1,Graduate,No,394300,0,6400000,480,1,Semiurban,Approved,37,6,California,Monterey Park,East Los Angeles,City,91754,323
+LP001825,Eunice,Hamilton,Eunice Hamilton,Male,Yes,0,Graduate,No,292500,0,4000000,360,1,Urban,Approved,47,6,California,Merced,Bear Creek,City,95344,209
+LP001835,Axel,Bryant,Axel Bryant,Male,Yes,0,Not Graduate,No,324200,43700,14200000,360,0,Semiurban,Under Review,303,48,Texas,Lubbock,Lubbock City,Town,79407,806
+LP001836,Lois,Hayes,Lois Hayes,Female,No,2,Graduate,No,386300,0,7000000,360,1,Urban,Under Review,113,48,Texas,Grand Prairie,Grand Prairie City,Town,75050,972
+LP001841,Eli,Robinson,Eli Robinson,Male,No,0,Not Graduate,Yes,402800,0,13100000,360,1,Rural,Approved,125,26,Michigan,Clarkston,Village Of Clarkston City,CDP,48348,248
+LP001843,Esther,Washington,Esther Washington,Male,Yes,1,Not Graduate,No,401000,102500,12000000,180,1,Semiurban,Approved,163,20,Kansas,Plainville,Plainville City,City,67663,785
+LP001844,Leo,Johnson,Leo Johnson,Male,No,0,Graduate,Yes,371900,158500,11400000,360,0,Urban,Under Review,81,36,New York,Long Island City,New York City,City,11106,718
+LP001846,Mae,Myers,Mae Myers,Female,No,3,Graduate,No,285800,0,12300000,360,1,Rural,Approved,61,6,California,Roseville,Roseville City,City,95747,916
+LP001849,Kayden,Griffin,Kayden Griffin,Male,No,0,Not Graduate,No,383300,0,9200000,360,0,Rural,Under Review,19,6,California,Fowler,Fowler City,City,93625,559
+LP001854,Myrtle,Foster,Myrtle Foster,Male,Yes,3,Graduate,No,333300,428800,16000000,360,1,Urban,Under Review,173,18,Indiana,Chandler,Chandler,City,47610,812
+LP001859,Camden,Simmons,Camden Simmons,Male,Yes,0,Graduate,No,300700,372500,15100000,360,1,Rural,Under Review,113,72,Puerto Rico,Ponce,Ponce,Urban,731,787
+LP001864,Florence,Myers,Florence Myers,Male,Yes,3,Not Graduate,No,185000,458300,8100000,360,1,Semiurban,Under Review,121,13,Georgia,Alpharetta,Peachtree Corners City,City,30022,770
+LP001865,Beckett,Alexander,Beckett Alexander,Male,Yes,1,Graduate,No,279200,261900,17100000,360,0,Urban,Approved,25,4,Arizona,Cottonwood,Verde Village,CDP,86326,928
+LP001868,Hazel,Diaz,Hazel Diaz,Male,No,0,Graduate,No,298200,155000,11000000,360,1,Semiurban,Approved,141,18,Indiana,Mishawaka,Mishawaka City,City,46544,574
+LP001870,Lincoln,Hayes,Lincoln Hayes,Female,No,1,Graduate,No,341700,73800,10000000,36,1,Semiurban,Under Review,17,39,Ohio,Hamilton,Hamilton City,Village,45011,513
+LP001871,Vera,Robinson,Vera Robinson,Female,No,0,Graduate,No,1884000,0,23400000,360,1,Rural,Approved,107,6,California,Tulare,Tulare City,City,93274,559
+LP001872,Jordan,Bryant,Jordan Bryant,Male,No,0,Graduate,Yes,299500,112000,18400000,360,1,Semiurban,Approved,89,1,Alabama,Hazel Green,Hazel Green,Town,35750,256
+LP001875,Hattie,Myers,Hattie Myers,Male,No,0,Graduate,No,357900,330800,13800000,360,1,Rural,Approved,127,12,Florida,Port Orange,South Daytona City,City,32129,386
+LP001877,Brayden,Simmons,Brayden Simmons,Male,Yes,2,Graduate,No,383500,140000,11200000,360,1,Semiurban,Approved,183,29,Missouri,O'fallon,Dardenne Prairie City,City,63368,636
+LP001882,Agnes,Hamilton,Agnes Hamilton,Male,Yes,3,Graduate,No,385400,357500,11700000,360,0,Urban,Approved,13,37,North Carolina,Chocowinity,River Road,Village,27817,252
+LP001883,Jeremiah,Washington,Jeremiah Washington,Female,No,0,Graduate,Yes,583300,75000,4900000,360,1,Rural,Under Review,1,8,Colorado,Northglenn,Northglenn City,City,80234,720
+LP001884,Mildred,Foster,Mildred Foster,Female,No,1,Graduate,No,350800,0,9900000,360,1,Urban,Approved,67,21,Kentucky,Lexington,Lexington-fayette,City,40505,859
+LP001888,Wyatt,Griffin,Wyatt Griffin,Female,No,0,Graduate,No,163500,244400,9900000,360,1,Urban,Approved,31,32,Nevada,Reno,Reno City,City,89523,775
+LP001891,Pearl,Diaz,Pearl Diaz,Male,Yes,0,Graduate,No,333300,391600,21200000,360,1,Urban,Approved,163,26,Michigan,Detroit,Hamtramck City,CDP,48207,313
+LP001892,Austin,Bryant,Austin Bryant,Male,No,0,Graduate,No,2479700,0,24000000,360,1,Rural,Approved,73,12,Florida,Tallahassee,Tallahassee City,City,32301,850
+LP001894,Helen,Hayes,Helen Hayes,Male,Yes,0,Graduate,No,566700,44000,13000000,360,1,Semiurban,Approved,47,6,California,Livingston,Livingston City,City,95334,209
+LP001896,Owen,Myers,Owen Myers,Male,Yes,2,Graduate,No,350000,0,9400000,360,1,Semiurban,Approved,71,41,Oregon,Sheridan,Sheridan City,City,97378,503
+LP001900,Rose,Simmons,Rose Simmons,Male,Yes,1,Graduate,No,277300,149700,10800000,360,1,Semiurban,Approved,41,24,Maryland,Trappe,Trappe,CDP,21673,410
+LP001903,Colton,Alexander,Colton Alexander,Male,Yes,0,Graduate,No,650000,0,14400000,360,1,Semiurban,Approved,135,13,Georgia,Lawrenceville,Lawrenceville City,City,30043,770
+LP001904,Irene,Myers,Irene Myers,Male,Yes,0,Graduate,No,576900,0,11000000,360,1,Urban,Approved,83,6,California,Lompoc,Lompoc City,City,93438,805
+LP001907,Greyson,Robinson,Greyson Robinson,Male,Yes,0,Graduate,No,363400,91000,17600000,360,1,Semiurban,Approved,31,17,Illinois,Cicero,Berwyn City,Village,60804,708
+LP001908,Ruby,Gonzalez,Ruby Gonzalez,Female,Yes,0,Not Graduate,No,2916700,0,18500000,360,1,Rural,Approved,83,6,California,Lompoc,Garey,City,93436,805
+LP001910,clara,Hamilton,clara Hamilton,Male,No,1,Not Graduate,Yes,216600,205700,12200000,360,0,Urban,Under Review,43,35,New Mexico,Cuba,San Luis,City,87013,505
+LP001914,Aaron,Johnson,Aaron Johnson,Male,Yes,0,Graduate,No,500000,0,12600000,360,1,Semiurban,Approved,47,36,New York,Brooklyn,New York City,City,11234,718
+LP001915,Hazel,Hayes,Hazel Hayes,Male,Yes,2,Graduate,No,553000,0,13500000,180,1,Urban,Approved,53,41,Oregon,Monmouth,Independence City,City,97361,503
+LP001917,Jordan,Myers,Jordan Myers,Female,No,0,Graduate,No,900000,0,12200000,360,1,Urban,Approved,201,48,Texas,Humble,Atascocita,Town,77346,281
+LP001922,Lillian,Robinson,Lillian Robinson,Male,Yes,0,Graduate,No,1000000,1166600,46000000,360,1,Rural,Under Review,73,6,California,Vista,Vista City,City,92084,760
+LP001924,Sean,Washington,Sean Washington,Male,No,0,Graduate,No,875000,0,29700000,360,1,Rural,Approved,760,51,Virginia,Richmond,Bon Air,Town,23235,804
+LP001925,Grace,Diaz,Grace Diaz,Female,No,0,Graduate,Yes,215700,273000,14000000,300,1,Semiurban,Under Review,119,36,New York,Mount Vernon,Bronxville,City,10552,914
+LP001926,Eric,Griffin,Eric Griffin,Male,Yes,0,Graduate,No,197200,434700,10600000,360,1,Rural,Approved,111,6,California,Simi Valley,Simi Valley City,City,93065,805
+LP001931,Ruby,Myers,Ruby Myers,Female,No,0,Graduate,No,498300,0,14100000,360,1,Semiurban,Approved,21,4,Arizona,Casa Grande,Casa Grande City,CDP,85222,520
+LP001935,Gregory,Russell,Gregory Russell,Male,No,0,Graduate,No,833300,400000,0,360,1,Rural,Approved,93,40,Oklahoma,Ringwood,Ringwood,CDP,73768,580
+LP001936,Evelyn,Hayes,Evelyn Hayes,Male,Yes,0,Graduate,No,366700,200000,17000000,360,1,Rural,Approved,7,34,New Jersey,Blackwood,Blackwood,City,8012,856
+LP001938,Patrick,Foster,Patrick Foster,Male,Yes,2,Graduate,No,316600,283300,14500000,360,0,Semiurban,Under Review,119,17,Illinois,Collinsville,Collinsville City,Village,62234,618
+LP001940,Clara,Simmons,Clara Simmons,Male,Yes,2,Graduate,No,327100,0,9000000,360,1,Urban,Approved,27,36,New York,Poughquag,Hopewell Junction,City,12570,845
+LP001945,Tyler,Diaz,Tyler Diaz,Female,No,1,Graduate,No,224100,200000,8800000,480,0,Urban,Under Review,101,31,Nebraska,Ogallala,Ogallala City,Village,69153,308
+LP001947,Hazel,Johnson,Hazel Johnson,Male,Yes,0,Graduate,No,179200,256500,12800000,360,1,Semiurban,Approved,27,24,Maryland,Ellicott City,Ilchester,CDP,21043,410
+LP001949,Brian,Gonzalez,Brian Gonzalez,Male,Yes,3,Graduate,No,266600,0,8400000,360,1,Urban,Approved,3,42,Pennsylvania,Pittsburgh,Etna,Borough,15201,412
+LP001953,Lillian,Bryant,Lillian Bryant,Male,Yes,1,Graduate,No,647800,0,10800000,360,1,Semiurban,Approved,183,29,Missouri,Augusta,Defiance,City,63332,636
+LP001954,Jordan,Hamilton,Jordan Hamilton,Female,Yes,1,Graduate,No,380800,0,8300000,360,1,Urban,Approved,9,25,Massachusetts,Middleton,Danvers,City,1949,978
+LP001955,Grace,Hayes,Grace Hayes,Female,No,0,Graduate,No,372900,0,11700000,480,1,Rural,Under Review,141,48,Texas,El Paso,Homestead Meadows North,Town,79928,915
+LP001963,Cody,Robinson,Cody Robinson,Male,Yes,1,Graduate,No,412000,0,12800000,360,1,Urban,Under Review,71,21,Kentucky,Prestonsburg,Dwale,City,41653,606
+LP001964,Ruby,Washington,Ruby Washington,Male,Yes,0,Not Graduate,No,750000,0,7500000,360,0,Urban,Under Review,109,40,Oklahoma,Oklahoma City,Oklahoma City City,CDP,73103,405
+LP001972,Vincent,Myers,Vincent Myers,Male,Yes,0,Not Graduate,No,630000,0,12500000,360,1,Semiurban,Approved,17,22,Louisiana,Shreveport,Shreveport City,City,71101,318
+LP001974,Evelyn,Diaz,Evelyn Diaz,Female,No,0,Graduate,No,1498700,0,17700000,360,1,Rural,Approved,49,54,West Virginia,Fairmont,Fairmont City,City,26554,304
+LP001977,Shane,Griffin,Shane Griffin,Male,Yes,1,Graduate,No,57000,212500,6800000,360,1,Urban,Approved,19,48,Texas,Medina,Utopia,Town,78055,830
+LP001978,Clara,Myers,Clara Myers,Male,No,0,Graduate,No,260000,70000,9600000,360,1,Rural,Approved,61,36,New York,New York,New York City,City,10019,212
+LP001990,Garrett,Alexander,Garrett Alexander,Male,No,0,Not Graduate,No,273300,108300,18000000,360,1,Urban,Under Review,19,18,Indiana,Jeffersonville,Jeffersonville City,City,47130,812
+LP001993,Hazel,Russell,Hazel Russell,Female,No,0,Graduate,No,750000,0,18300000,360,1,Rural,Approved,51,45,South Carolina,Myrtle Beach,Bucksport,City,29588,843
+LP001994,Bradley,Simmons,Bradley Simmons,Female,No,0,Graduate,No,385900,0,12100000,360,0,Urban,Under Review,41,8,Colorado,Colorado Springs,Colorado Springs City,City,80917,719
+LP001996,Lillian,Hayes,Lillian Hayes,Male,No,0,Graduate,No,682500,0,16200000,360,1,Rural,Under Review,29,6,California,Wasco,Wasco City,City,93280,661
+LP001998,Derek,Foster,Derek Foster,Male,Yes,2,Not Graduate,No,370800,470000,13200000,360,1,Rural,Approved,21,37,North Carolina,Asheville,Asheville City,Village,28805,828
+LP002002,Grace,Myers,Grace Myers,Female,No,0,Graduate,No,531400,0,14700000,360,1,Semiurban,Approved,61,53,Washington,Everett,Eastmont,Town,98204,425
+LP002004,Xavier,Diaz,Xavier Diaz,Male,No,0,Not Graduate,No,236600,527200,15300000,360,1,Semiurban,Approved,139,40,Oklahoma,Guymon,Guymon City,CDP,73942,580
+LP002006,Ruby,Gonzalez,Ruby Gonzalez,Female,No,0,Graduate,No,206600,210800,10400000,360,1,Rural,Approved,19,4,Arizona,Tucson,Drexel Heights,CDP,85746,520
+LP002008,Felix,Washington,Felix Washington,Male,Yes,2,Graduate,Yes,500000,0,14900000,84,1,Rural,Approved,9,55,Wisconsin,Wrightstown,Greenleaf,City,54180,920
+LP002024,Evelyn,Hamilton,Evelyn Hamilton,Male,Yes,0,Graduate,No,376700,0,13400000,360,1,Rural,Under Review,99,39,Ohio,Sebring,Sebring,Village,44672,330
+LP002031,Diego,Myers,Diego Myers,Female,Yes,1,Not Graduate,No,785900,87900,16500000,180,1,Urban,Approved,27,35,New Mexico,Hondo,Ruidoso Downs City,City,88336,505
+LP002035,Clara,Bryant,Clara Bryant,Male,Yes,2,Graduate,No,428300,0,12000000,360,1,Semiurban,Approved,49,49,Utah,Orem,Orem City,City,84097,801
+LP002036,Austin,Robinson,Austin Robinson,Male,Yes,0,Graduate,No,170000,290000,6700000,360,1,Urban,Approved,159,37,North Carolina,Spencer,Spencer,Village,28159,704
+LP002043,Hazel,Griffin,Hazel Griffin,Female,No,1,Graduate,No,476800,0,12500000,360,1,Semiurban,Approved,193,19,Iowa,Sioux City,Sergeant Bluff City,City,51106,712
+LP002050,Jaden,Myers,Jaden Myers,Male,Yes,1,Graduate,Yes,308300,273800,12000000,360,1,Rural,Under Review,71,6,California,Fontana,Fontana City,City,92336,909
+LP002051,Lillian,Russell,Lillian Russell,Male,Yes,0,Graduate,No,266700,154200,14800000,360,1,Semiurban,Approved,157,37,North Carolina,Stoneville,Stoneville,Village,27048,336
+LP002053,Colin,Hayes,Colin Hayes,Male,Yes,3,Graduate,No,164700,176200,18100000,360,1,Semiurban,Approved,157,47,Tennessee,Memphis,Memphis City,City,38109,901
+LP002054,Grace,Simmons,Grace Simmons,Male,Yes,2,Not Graduate,No,340000,0,8000000,360,1,Rural,Approved,1,6,California,Livermore,Livermore City,City,94551,925
+LP002055,Tristan,Alexander,Tristan Alexander,Female,No,0,Graduate,No,1600000,500000,4000000,360,0,Rural,Approved,81,36,New York,Elmhurst,New York City,City,11373,718
+LP002065,Ruby,Gonzalez,Ruby Gonzalez,Male,Yes,3,Graduate,No,533300,0,9000000,360,1,Rural,Approved,37,6,California,Pacoima,San Fernando City,City,91331,818
+LP002067,Dominic,Myers,Dominic Myers,Male,Yes,1,Graduate,Yes,287500,241600,9500000,360,0,Rural,Under Review,55,31,Nebraska,Omaha,Omaha City,Village,68104,402
+LP002068,Evelyn,Hamilton,Evelyn Hamilton,Male,No,0,Graduate,No,260000,61800,12200000,360,0,Rural,Approved,7,44,Rhode Island,Johnston,Greenville,CDP,2919,401
+LP002082,Eli,Diaz,Eli Diaz,Male,Yes,0,Graduate,Yes,504100,70000,15000000,360,1,Semiurban,Approved,97,39,Ohio,London,London City,Village,43140,740
+LP002086,Clara,Foster,Clara Foster,Female,Yes,0,Graduate,No,695800,141100,15000000,360,1,Urban,Under Review,277,48,Texas,Paris,Toco City,Town,75460,903
+LP002087,Oliver,Myers,Oliver Myers,Female,No,0,Graduate,No,350000,165800,10400000,360,1,Urban,Approved,29,18,Indiana,Lawrenceburg,Hidden Valley,City,47025,812
+LP002097,Hazel,Robinson,Hazel Robinson,Male,No,1,Graduate,No,550900,0,14300000,360,1,Urban,Approved,69,12,Florida,Leesburg,Lisbon,City,34788,352
+LP002098,Cooper,Bryant,Cooper Bryant,Male,No,0,Graduate,No,969900,0,30000000,360,1,Semiurban,Approved,43,19,Iowa,Edgewood,Strawberry Point City,City,52042,563
+LP002100,Lillian,Griffin,Lillian Griffin,Male,No,0,Graduate,No,362100,271700,17100000,360,1,Urban,Approved,109,40,Oklahoma,Oklahoma City,Forest Park,CDP,73117,405
+LP002101,Miles,Myers,Miles Myers,Male,Yes,0,Graduate,Yes,470900,0,11300000,180,1,Urban,Approved,121,51,Virginia,Blacksburg,Blacksburg,Town,24060,540
+LP002103,Grace,Hayes,Grace Hayes,Female,Yes,1,Graduate,Yes,151600,195100,3500000,180,1,Urban,Approved,25,39,Ohio,Milford,Milford City,Village,45150,513
+LP002106,Leo,Simmons,Leo Simmons,Male,Yes,1,Graduate,Yes,240000,0,4600000,240,1,Semiurban,Approved,83,45,South Carolina,Boiling Springs,Inman City,City,29316,864
+LP002110,Ruby,Alexander,Ruby Alexander,Male,Yes,1,Graduate,Yes,301500,200000,14500000,360,1,Rural,Approved,101,12,Florida,Trinity,Trinity,City,34655,727
+LP002112,Caleb,Gonzalez,Caleb Gonzalez,Male,Yes,2,Graduate,Yes,229200,155800,11900000,360,1,Rural,Approved,117,12,Florida,Altamonte Springs,Longwood City,City,32701,407
+LP002113,Evelyn,Russell,Evelyn Russell,Female,No,3,Not Graduate,No,236000,335500,8700000,360,0,Urban,Under Review,21,51,Virginia,Bland,Bland,Town,24315,276
+LP002114,Jackson,Myers,Jackson Myers,Female,No,0,Graduate,No,433300,233300,16200000,360,1,Semiurban,Approved,67,36,New York,East Syracuse,Minoa,City,13057,315
+LP002115,Clara,Washington,Clara Washington,Male,Yes,3,Not Graduate,No,262300,483100,12200000,360,1,Rural,Under Review,27,25,Massachusetts,North Grafton,Westborough,City,1536,508
+LP002116,Leo,Diaz,Leo Diaz,Female,No,0,Graduate,No,397200,427500,18700000,360,1,Rural,Under Review,37,6,California,Downey,Malibu City,City,90242,818
+LP002119,Hazel,Foster,Hazel Foster,Male,Yes,1,Not Graduate,No,352200,0,8100000,360,1,Urban,Approved,93,21,Kentucky,Radcliff,Radcliff City,City,40160,270
+LP002126,Eli,Myers,Eli Myers,Male,Yes,3,Not Graduate,No,470000,0,8000000,360,1,Semiurban,Approved,3,9,Connecticut,New Britain,New Britain City,CDP,6053,860
+LP002128,Lillian,Griffin,Lillian Griffin,Male,Yes,2,Graduate,No,685800,0,17600000,360,1,Rural,Approved,81,30,Montana,Hamilton,Pinesdale,CDP,59840,406
+LP002129,Cole,Robinson,Cole Robinson,Male,Yes,0,Graduate,No,833400,0,26000000,360,1,Semiurban,Approved,95,39,Ohio,Toledo,Toledo City,Village,43613,419
+LP002130,Grace,Hamilton,Grace Hamilton,Male,Yes,0,Not Graduate,No,339100,196600,13300000,360,0,Rural,Under Review,3,34,New Jersey,Oakland,Oakland,City,7436,201
+LP002131,Evan,Myers,Evan Myers,Male,Yes,2,Not Graduate,No,286800,0,7000000,360,1,Urban,Approved,85,55,Wisconsin,Rhinelander,Lake Tomahawk,City,54501,715
+LP002137,Ruby,Hayes,Ruby Hayes,Male,Yes,0,Graduate,No,341800,138000,13500000,360,0,Semiurban,Approved,1,9,Connecticut,Wilton,Cannondale,CDP,6897,203
+LP002138,Oliver,Simmons,Oliver Simmons,Male,Yes,0,Graduate,No,250000,29600,13700000,360,1,Rural,Approved,23,36,New York,Homer,Homer,City,13077,607
+LP002139,Evelyn,Myers,Evelyn Myers,Male,Yes,0,Graduate,No,866700,0,25400000,360,1,Semiurban,Approved,45,30,Montana,Stanford,Stanford,CDP,59479,406
+LP002140,Benjamin,Bryant,Benjamin Bryant,Male,No,0,Graduate,No,228300,1500000,10600000,360,1,Rural,Under Review,71,41,Oregon,Mcminnville,Mcminnville City,City,97128,503
+LP002141,Clara,Diaz,Clara Diaz,Male,Yes,3,Graduate,No,581700,91000,10900000,360,1,Rural,Approved,45,22,Louisiana,New Iberia,Lydia,City,70560,337
+LP002142,Nicholas,Gonzalez,Nicholas Gonzalez,Female,Yes,0,Graduate,Yes,511900,376900,12000000,360,0,Rural,Under Review,109,6,California,Sonora,Phoenix Lake,City,95370,209
+LP002143,Hazel,Myers,Hazel Myers,Female,Yes,0,Graduate,No,531600,18700,15800000,360,1,Semiurban,Approved,175,18,Indiana,Salem,Salem City,City,47167,812
+LP002144,Samuel,Alexander,Samuel Alexander,Female,No,1,Graduate,No,760300,121300,19700000,180,1,Urban,Approved,5,24,Maryland,Baltimore,Dundalk,CDP,21222,410
+LP002149,Lillian,Russell,Lillian Russell,Male,Yes,2,Graduate,No,379100,193600,8500000,360,1,Rural,Approved,71,41,Oregon,Mcminnville,Mcminnville City,City,97128,503
+LP002151,Gabriel,Foster,Gabriel Foster,Male,Yes,1,Graduate,No,250000,0,6000000,360,1,Urban,Under Review,73,6,California,San Diego,San Diego City,City,92124,858
+LP002158,Grace,Hayes,Grace Hayes,Male,Yes,0,Not Graduate,No,313200,0,7600000,480,0,Urban,Under Review,71,12,Florida,Fort Myers,Tice,City,33905,239
+LP002160,Xavier,Myers,Xavier Myers,Male,Yes,3,Graduate,No,400000,266700,15200000,360,1,Semiurban,Approved,59,6,California,Brea,Brea City,City,92821,714
+LP002161,Ruby,Robinson,Ruby Robinson,Female,No,1,Graduate,No,855000,425500,9600000,360,1,Semiurban,Under Review,119,47,Tennessee,Spring Hill,Spring Hill City,City,37174,931
+LP002170,Caleb,Myers,Caleb Myers,Male,Yes,2,Graduate,No,226900,216700,9900000,360,1,Semiurban,Approved,89,37,North Carolina,Mills River,Mills River,Village,28759,828
+LP002175,Evelyn,Griffin,Evelyn Griffin,Male,Yes,0,Graduate,No,400900,177700,11300000,360,1,Urban,Approved,169,51,Virginia,Hiltons,Nickelsville,Town,24258,276
+LP002178,Gabriel,Simmons,Gabriel Simmons,Male,Yes,0,Graduate,No,415800,70900,11500000,300,0,Urban,Approved,21,29,Missouri,St Joseph,St. Joseph City,City,64505,816
+LP002180,Clara,Myers,Clara Myers,Male,No,0,Graduate,Yes,325000,199300,12600000,360,1,Rural,Approved,31,24,Maryland,Clarksburg,Clarksburg,CDP,20871,301
+LP002181,Elijah,Hamilton,Elijah Hamilton,Male,No,0,Not Graduate,No,500000,239300,15800000,360,1,Rural,Under Review,201,48,Texas,Houston,Piney Point Village City,Town,77074,832
+LP002187,Hazel,Gonzalez,Hazel Gonzalez,Male,No,0,Graduate,No,920000,0,9800000,480,1,Semiurban,Under Review,43,42,Pennsylvania,Hershey,Hershey,Borough,17033,717
+LP002188,Lincoln,Diaz,Lincoln Diaz,Male,No,0,Graduate,No,572000,0,11000000,180,0,Rural,Under Review,125,5,Arkansas,Benton,Benton City,City,72015,501
+LP002190,Lillian,Bryant,Lillian Bryant,Male,Yes,1,Graduate,No,307600,150000,12600000,360,1,Semiurban,Approved,37,34,New Jersey,Sparta,Lake Mohawk,City,7871,973
+LP002191,Christopher,Foster,Christopher Foster,Male,Yes,0,Graduate,No,500000,180000,20800000,360,1,Rural,Under Review,93,42,Pennsylvania,Danville,Danville,Borough,17821,570
+LP002194,Grace,Myers,Grace Myers,Female,No,0,Graduate,Yes,234000,254600,10000000,360,1,Semiurban,Approved,53,12,Florida,Spring Hill,Timber Pines,City,34606,352
+LP002197,Anthony,Alexander,Anthony Alexander,Male,Yes,2,Graduate,No,327600,0,7800000,360,1,Semiurban,Approved,113,19,Iowa,Cedar Rapids,Cedar Rapids City,City,52405,319
+LP002201,Ruby,Myers,Ruby Myers,Male,Yes,2,Graduate,Yes,216500,342200,15200000,300,1,Rural,Approved,31,17,Illinois,Chicago,Chicago City,Village,60616,312
+LP002205,Gabriel,Robinson,Gabriel Robinson,Male,No,1,Graduate,No,222600,0,5900000,180,0,Urban,Under Review,17,25,Massachusetts,Cambridge,Watertown Town City,City,2138,617
+LP002209,Evelyn,Hayes,Evelyn Hayes,Female,No,0,Graduate,Yes,388100,0,14700000,360,1,Urban,Approved,29,54,West Virginia,Weirton,Weirton City,City,26062,304
+LP002211,Zachary,Myers,Zachary Myers,Male,Yes,0,Graduate,No,1363300,0,28000000,180,1,Urban,Approved,31,24,Maryland,Bethesda,Glen Echo,CDP,20817,301
+LP002219,Clara,Myers,Clara Myers,Male,Yes,3,Graduate,No,240000,240000,12300000,360,1,Rural,Approved,93,36,New York,Scotia,East Glenville,City,12302,518
+LP002223,Elijah,Griffin,Elijah Griffin,Male,Yes,0,Graduate,No,309100,0,9000000,360,0,Semiurban,Approved,109,51,Virginia,Mineral,Goochland,Town,23117,540
+LP002224,Hazel,Simmons,Hazel Simmons,Male,No,0,Graduate,No,218500,151600,16200000,480,1,Urban,Under Review,27,6,California,Shoshone,Furnace Creek,City,92384,760
+LP002225,Logan,Myers,Logan Myers,Male,Yes,2,Graduate,No,416600,0,4000000,360,1,Urban,Approved,87,36,New York,West Haverstraw,West Haverstraw,City,10993,845
+LP002226,Lillian,Diaz,Lillian Diaz,Male,Yes,0,Graduate,Yes,1217300,0,16600000,360,1,Semiurban,Approved,1,6,California,Fremont,Union City City,City,94536,510
+LP002229,Elijah,Gonzalez,Elijah Gonzalez,Male,No,0,Graduate,No,466600,0,12400000,360,1,Semiurban,Approved,13,4,Arizona,Glendale,Glendale City,CDP,85308,623
+LP002231,Grace,Myers,Grace Myers,Female,No,0,Graduate,No,566700,0,13100000,360,1,Urban,Approved,81,42,Pennsylvania,South Williamsport,South Williamsport,Borough,17702,570
+LP002234,Nicholas,Hamilton,Nicholas Hamilton,Male,No,0,Graduate,Yes,458300,291600,20000000,360,1,Urban,Approved,101,42,Pennsylvania,Philadelphia,Philadelphia City,Borough,19121,215
+LP002236,Ruby,Myers,Ruby Myers,Male,Yes,2,Graduate,No,378600,33300,12600000,360,1,Urban,Under Review,5,36,New York,Bronx,Mount Vernon City,City,10452,718
+LP002237,Sebastian,Bryant,Sebastian Bryant,Male,No,1,Graduate,No,922600,791600,30000000,180,1,Urban,Approved,33,53,Washington,Bellevue,Newcastle City,Town,98006,425
+LP002239,Evelyn,Hayes,Evelyn Hayes,Male,No,0,Not Graduate,No,130000,347000,10000000,360,1,Semiurban,Approved,1,6,California,Newark,Newark City,City,94560,510
+LP002243,Caleb,Robinson,Caleb Robinson,Male,Yes,0,Not Graduate,No,188800,162000,4800000,360,0,Urban,Under Review,55,36,New York,Rochester,Rochester City,City,14605,585
+LP002244,Clara,Myers,Clara Myers,Male,Yes,0,Graduate,No,208300,0,2800000,360,1,Urban,Approved,87,39,Ohio,Proctorville,Proctorville,Village,45669,740
+LP002250,Julian,Alexander,Julian Alexander,Male,Yes,0,Graduate,No,390900,0,10100000,360,1,Rural,Approved,3,32,Nevada,Las Vegas,Henderson City,City,89052,702
+LP002255,Hazel,Myers,Hazel Myers,Male,No,3,Graduate,No,376500,0,12500000,360,1,Rural,Approved,119,36,New York,New Rochelle,Pelham,City,10801,914
+LP002262,Gabriel,Foster,Gabriel Foster,Male,Yes,3,Graduate,No,540000,438000,29000000,360,1,Rural,Approved,91,20,Kansas,Shawnee Mission,Merriam City,City,66203,913
+LP002263,Lillian,Simmons,Lillian Simmons,Male,Yes,0,Graduate,No,150000,2400000,14800000,360,0,Urban,Approved,43,24,Maryland,Hagerstown,Halfway,CDP,21740,301
+LP002265,Dominic,Myers,Dominic Myers,Male,Yes,2,Not Graduate,No,436300,125000,14000000,180,1,Semiurban,Approved,67,6,California,Carmichael,Carmichael,City,95608,916
+LP002266,Grace,Diaz,Grace Diaz,Male,Yes,2,Graduate,No,750000,375000,27500000,360,1,Urban,Approved,167,18,Indiana,Terre Haute,Terre Haute City,City,47803,812
+LP002272,Isaiah,Myers,Isaiah Myers,Male,Yes,2,Graduate,No,377200,83300,5700000,360,1,Semiurban,Approved,73,6,California,San Diego,San Diego City,City,92103,619
+LP002277,Ruby,Williams,Ruby Williams,Female,No,0,Graduate,No,294200,238200,12500000,360,0,Urban,Under Review,19,42,Pennsylvania,Butler,Shanor-northvue,Borough,16001,724
+LP002281,Eli,Clark,Eli Clark,Male,Yes,0,Graduate,No,247800,0,7500000,360,1,Urban,Approved,11,1,Alabama,Union Springs,Union Springs City,Town,36089,334
+LP002284,Evelyn,Lewis,Evelyn Lewis,Male,No,0,Not Graduate,No,625000,82000,19200000,360,1,Rural,Approved,49,39,Ohio,Columbus,Columbus City,Village,43219,614
+LP002287,Brody,Lee,Brody Lee,Female,No,0,Graduate,No,326800,168300,15200000,360,0,Semiurban,Under Review,33,53,Washington,Seattle,White Center,Town,98106,206
+LP002288,Clara,Walker,Clara Walker,Male,Yes,2,Not Graduate,No,278300,270800,15800000,180,0,Urban,Under Review,13,45,South Carolina,Beaufort,Laurel Bay,City,29906,912
+LP002296,Greyson,Hall,Greyson Hall,Male,No,0,Not Graduate,No,274000,154100,10100000,300,1,Rural,Under Review,453,48,Texas,Austin,Sunset Valley City,Town,78744,512
+LP002297,Hazel,Allen,Hazel Allen,Male,No,0,Graduate,No,315000,0,17600000,360,1,Semiurban,Approved,13,34,New Jersey,Glen Ridge,Glen Ridge,City,7028,973
+LP002300,Micah,Young,Micah Young,Female,No,0,Not Graduate,No,735000,402900,18500000,360,1,Semiurban,Approved,35,39,Ohio,South Euclid,South Euclid City,Village,44121,216
+LP002301,Lillian,Hernandez,Lillian Hernandez,Female,No,0,Graduate,Yes,226700,279200,9000000,360,1,Rural,Under Review,87,39,Ohio,Ironton,Ironton City,Village,45638,740
+LP002305,Theo,King,Theo King,Female,No,0,Graduate,No,583300,0,11600000,360,1,Semiurban,Approved,157,47,Tennessee,Memphis,Memphis City,City,38107,901
+LP002308,Grace,Wright,Grace Wright,Male,Yes,0,Not Graduate,No,364300,196300,13800000,360,1,Urban,Approved,103,36,New York,East Northport,East Northport,City,11731,631
+LP002314,Miles,Hill,Miles Hill,Female,No,0,Not Graduate,No,562900,81800,10000000,360,1,Rural,Approved,75,45,South Carolina,Orangeburg,Brookdale,City,29118,803
+LP002315,Ruby,Scott,Ruby Scott,Male,Yes,1,Graduate,No,364400,0,11000000,300,0,Semiurban,Under Review,7,36,New York,Binghamton,Binghamton City,City,13905,607
+LP002317,Leo,Green,Leo Green,Male,Yes,3,Graduate,No,175000,202400,9000000,360,0,Rural,Under Review,133,29,Missouri,Charleston,Charleston City,City,63834,573
+LP002318,Evelyn,Adams,Evelyn Adams,Female,No,1,Not Graduate,Yes,650000,260000,20000000,360,1,Semiurban,Under Review,33,12,Florida,Pensacola,Pensacola City,City,32503,850
+LP002319,Leo,Baker,Leo Baker,Male,Yes,0,Graduate,Yes,366600,0,8400000,360,1,Urban,Approved,59,6,California,Placentia,Placentia City,City,92870,714
+LP002328,Clara,Gonzalez,Clara Gonzalez,Male,Yes,0,Not Graduate,No,426000,390000,18500000,360,0,Rural,Under Review,109,12,Florida,Ponte Vedra Beach,Sawgrass,City,32082,904
+LP002332,Aiden,Nelson,Aiden Nelson,Male,Yes,0,Not Graduate,No,416300,147500,16200000,360,1,Rural,Approved,55,36,New York,Rochester,Rochester City,City,14607,585
+LP002335,Hazel,Carter,Hazel Carter,Female,Yes,0,Not Graduate,No,235600,190200,10800000,360,0,Semiurban,Under Review,97,18,Indiana,Indianapolis,Speedway,City,46241,317
+LP002337,Owen,Mitchell,Owen Mitchell,Female,No,0,Graduate,No,679200,333800,18700000,360,1,Urban,Approved,73,1,Alabama,Fairfield,Fairfield City,Town,35064,205
+LP002341,Lillian,Perez,Lillian Perez,Female,No,1,Graduate,No,800000,25000,18700000,360,1,Urban,Under Review,163,26,Michigan,Westland,Westland City,CDP,48185,734
+LP002342,Victor,Roberts,Victor Roberts,Male,Yes,2,Graduate,Yes,241900,170700,12400000,360,1,Urban,Under Review,53,53,Washington,Vaughn,Stansberry Lake,Town,98394,253
+LP002345,Grace,Turner,Grace Turner,Male,Yes,0,Graduate,No,350000,83300,12000000,360,1,Rural,Approved,95,39,Ohio,Toledo,Ottawa Hills,Village,43615,419
+LP002347,Mason,Phillips,Mason Phillips,Male,Yes,0,Graduate,No,350000,307700,16000000,360,1,Semiurban,Approved,95,1,Alabama,Union Grove,Union Grove,Town,35175,256
+LP002348,Ruby,Campbell,Ruby Campbell,Male,Yes,0,Graduate,No,411600,100000,3000000,360,1,Rural,Approved,5,36,New York,Bronx,Mount Vernon City,City,10458,718
+LP002357,Leo,Parker,Leo Parker,Female,No,0,Not Graduate,No,529300,0,9200000,240,0,Urban,Under Review,37,47,Tennessee,Nashville,Belle Meade City,City,37209,615
+LP002361,Evelyn,Evans,Evelyn Evans,Male,Yes,0,Graduate,No,275000,0,13000000,360,1,Urban,Approved,35,53,Washington,Port Orchard,Gorst,Town,98367,360
+LP002362,Eli,Edwards,Eli Edwards,Male,Yes,1,Graduate,No,440200,0,13000000,360,0,Urban,Under Review,710,51,Virginia,Norfolk,Norfolk City,Town,23505,757
+LP002364,Clara,Collins,Clara Collins,Male,Yes,0,Graduate,No,361300,353900,13400000,360,1,Semiurban,Approved,127,72,Puerto Rico,San Juan,San Juan,Urban,928,787
+LP002366,Cole,Stewart,Cole Stewart,Male,Yes,0,Graduate,No,277900,366400,17600000,360,1,Rural,Approved,65,6,California,Corona,Coronita,City,92882,951
+LP002367,Hazel,Sanchez,Hazel Sanchez,Female,No,1,Not Graduate,No,472000,0,9000000,360,1,Rural,Under Review,87,12,Florida,Key West,Key West City,City,33040,305
+LP002368,Evan,Morris,Evan Morris,Male,Yes,2,Graduate,No,241500,172100,11000000,360,1,Semiurban,Approved,1,6,California,Fremont,Newark City,City,94536,510
+LP002369,Lillian,Rogers,Lillian Rogers,Male,Yes,0,Graduate,No,701600,29200,12500000,360,1,Rural,Approved,13,1,Alabama,Mckenzie,Mckenzie,Town,36456,334
+LP002370,Leo,Reed,Leo Reed,Male,No,0,Not Graduate,No,496800,0,18900000,180,1,Urban,Approved,31,12,Florida,Jacksonville,Jacksonville City,City,32208,904
+LP002377,Grace,Cook,Grace Cook,Female,No,1,Graduate,Yes,210100,150000,10800000,360,1,Semiurban,Approved,13,6,California,Antioch,Antioch City,City,94531,925
+LP002379,Isaac,Morgan,Isaac Morgan,Male,No,0,Graduate,No,449000,0,12500000,360,0,Rural,Under Review,29,36,New York,Springville,Springville,City,14141,716
+LP002386,Ruby,Bell,Ruby Bell,Male,No,0,Graduate,Yes,291700,358300,13800000,360,1,Semiurban,Approved,35,34,New Jersey,Hillsborough,Belle Mead,City,8844,908
+LP002387,Wesley,Murphy,Wesley Murphy,Male,Yes,0,Graduate,No,470000,0,13500000,360,1,Semiurban,Approved,37,6,California,Canyon Country,Santa Clarita City,City,91351,661
+LP002390,Clara,Bailey,Clara Bailey,Male,No,0,Graduate,No,344500,0,13000000,360,1,Urban,Approved,3,39,Ohio,Delphos,Delphos City,Village,45833,419
+LP002393,Jesse,Rivera,Jesse Rivera,Female,No,1,Graduate,No,766600,0,18700000,240,1,Semiurban,Approved,135,72,Puerto Rico,Toa Alta,Toa Alta,Urban,953,787
+LP002398,Hazel,Cooper,Hazel Cooper,Male,No,0,Graduate,No,245800,510500,18800000,360,1,Semiurban,Approved,97,1,Alabama,Mobile,Theodore,Town,36605,251
+LP002401,Miles,Richardson,Miles Richardson,Male,Yes,0,Graduate,No,325000,0,9500000,360,1,Urban,Approved,31,17,Illinois,Chicago,Oak Park,Village,60651,773
+LP002403,Lillian,Cox,Lillian Cox,Male,No,0,Graduate,Yes,446300,0,6500000,360,0,Urban,Under Review,15,42,Pennsylvania,Towanda,Towanda,Borough,18848,570
+LP002407,Leo,Howard,Leo Howard,Female,Yes,0,Not Graduate,Yes,408300,177500,13900000,360,1,Rural,Approved,59,6,California,Costa Mesa,Newport Beach City,City,92626,949
+LP002408,Grace,Ward,Grace Ward,Male,No,0,Graduate,No,390000,209400,23200000,360,1,Semiurban,Approved,189,29,Missouri,Florissant,Old Jamestown,City,63033,314
+LP002409,Jackson,Torres,Jackson Torres,Male,Yes,0,Graduate,No,475000,358300,14400000,360,1,Rural,Approved,151,39,Ohio,Massillon,Massillon City,Village,44646,330
+LP002418,Ruby,Peterson,Ruby Peterson,Male,No,3,Not Graduate,No,358300,343500,15500000,360,1,Semiurban,Approved,27,40,Oklahoma,Noble,Slaughterville,CDP,73068,405
+LP002422,Nolan,Gray,Nolan Gray,Male,No,1,Graduate,No,318900,236700,18600000,360,1,Semiurban,Approved,29,48,Texas,San Antonio,Kirby City,Town,78220,210
+LP002424,Clara,Ramirez,Clara Ramirez,Male,Yes,0,Graduate,No,635600,0,5000000,300,1,Rural,Approved,61,53,Washington,Gold Bar,Verlot,Town,98251,360
+LP002429,Theodore,James,Theodore James,Male,Yes,1,Graduate,Yes,341300,405300,0,360,1,Rural,Approved,181,48,Texas,Bells,Bells,Town,75414,903
+LP002434,Hazel,Watson,Hazel Watson,Male,Yes,2,Not Graduate,No,795000,0,18500000,360,1,Rural,Approved,19,4,Arizona,Tucson,Tucson Estates,CDP,85735,520
+LP002435,Harrison,Brooks,Harrison Brooks,Male,Yes,0,Graduate,No,382900,110300,16300000,360,1,Rural,Under Review,163,26,Michigan,Detroit,Southfield City,CDP,48219,313
+LP002443,Lillian,Kelly,Lillian Kelly,Male,Yes,2,Graduate,No,7252900,0,36000000,360,0,Rural,Under Review,71,12,Florida,North Fort Myers,Palmona Park,City,33903,239
+LP002444,Levi,Sanders,Levi Sanders,Male,No,1,Not Graduate,Yes,413600,0,14900000,360,1,Semiurban,Under Review,159,37,North Carolina,Salisbury,Salisbury City,Village,28145,704
+LP002446,Grace,Price,Grace Price,Male,Yes,2,Not Graduate,No,844900,0,25700000,360,0,Rural,Under Review,81,36,New York,Queens Village,Bellerose Terrace,City,11428,718
+LP002447,Carson,Bennett,Carson Bennett,Male,Yes,2,Not Graduate,No,445600,0,13100000,300,1,Urban,Approved,13,4,Arizona,El Mirage,El Mirage City,CDP,85335,623
+LP002448,Ruby,Wood,Ruby Wood,Male,Yes,0,Graduate,No,463500,800000,10200000,360,0,Rural,Under Review,159,31,Nebraska,Seward,Seward City,Village,68434,402
+LP002449,Cooper,Barnes,Cooper Barnes,Male,Yes,0,Graduate,No,357100,191700,13500000,180,0,Rural,Approved,141,48,Texas,El Paso,Fort Bliss,Town,79907,915
+LP002453,Hazel,Ross,Hazel Ross,Male,No,0,Graduate,Yes,306600,0,9500000,360,1,Semiurban,Approved,35,49,Utah,South Jordan,South Jordan City,City,84095,801
+LP002455,Evan,Henderson,Evan Henderson,Male,Yes,2,Graduate,No,323500,201500,7700000,360,1,Semiurban,Approved,9,25,Massachusetts,Peabody,Peabody City,City,1960,978
+LP002459,Lillian,Coleman,Lillian Coleman,Male,Yes,0,Graduate,No,505800,0,20000000,360,1,Urban,Approved,87,55,Wisconsin,Hortonville,Dale,City,54944,920
+LP002467,Oliver,Jenkins,Oliver Jenkins,Male,Yes,0,Graduate,No,318800,228600,13000000,360,1,Urban,Under Review,91,36,New York,Ballston Lake,Round Lake,City,12019,518
+LP002472,Ruby,Perry,Ruby Perry,Male,No,2,Graduate,No,1351800,0,39000000,360,1,Rural,Approved,91,36,New York,Clifton Park,Cohoes City,City,12065,518
+LP002473,Benjamin,Powell,Benjamin Powell,Male,Yes,0,Graduate,No,436400,250000,18500000,360,1,Semiurban,Under Review,113,48,Texas,Dallas,Dallas City,Town,75208,214
+LP002478,Pearl,Long,Pearl Long,Male,Yes,0,Graduate,Yes,476600,164600,10000000,360,1,Semiurban,Approved,3,32,Nevada,Las Vegas,Winchester,City,89119,702
+LP002484,Thomas,Patterson,Thomas Patterson,Male,Yes,3,Graduate,No,460900,233300,12300000,180,1,Urban,Approved,45,42,Pennsylvania,Drexel Hill,Drexel Hill,Borough,19026,610
+LP002487,Hattie,Hughes,Hattie Hughes,Male,Yes,0,Graduate,No,626000,0,11000000,360,1,Rural,Approved,11,50,Vermont,Saint Albans,St. Albans City,CDP,5478,802
+LP002489,Caleb,Flores,Caleb Flores,Female,No,1,Not Graduate,Yes,333300,420000,25600000,360,1,Semiurban,Approved,3,15,Hawaii,Kapolei,Kalaeloa,CDP,96707,808
+LP002493,Edith,Washington,Edith Washington,Male,No,0,Graduate,No,350000,325000,14000000,360,0,Semiurban,Under Review,7,34,New Jersey,Camden,Camden City,City,8102,856
+LP002494,Elijah,Butler,Elijah Butler,Male,No,0,Graduate,No,971900,0,6100000,360,1,Rural,Approved,59,51,Virginia,Herndon,Herndon,Town,20170,703
+LP002500,Hazel,Simmons,Hazel Simmons,Male,Yes,3,Not Graduate,No,683500,0,18800000,180,0,Urban,Under Review,85,6,California,San Jose,Burbank,City,95128,408
+LP002501,William,Foster,William Foster,Female,Yes,0,Graduate,No,445200,0,13100000,360,1,Semiurban,Approved,29,39,Ohio,Salem,Salem City,Village,44460,330
+LP002502,Lillian,Gonzales,Lillian Gonzales,Female,Yes,2,Not Graduate,Yes,226200,0,0,360,1,Semiurban,Approved,73,6,California,San Diego,Lemon Grove City,City,92115,619
+LP002505,Joseph,Bryant,Joseph Bryant,Male,Yes,0,Graduate,No,390100,0,11600000,360,1,Urban,Under Review,97,18,Indiana,Indianapolis,Indianapolis City,City,46205,317
+LP002515,Vera,Alexander,Vera Alexander,Male,Yes,1,Graduate,Yes,268700,0,5000000,360,1,Semiurban,Approved,5,25,Massachusetts,North Attleborough,Attleboro City,City,2760,508
+LP002517,Michael,Russell,Michael Russell,Male,Yes,1,Not Graduate,No,224300,223300,10700000,180,0,Rural,Under Review,161,26,Michigan,Ann Arbor,Ann Arbor City,CDP,48106,734
+LP002519,Grace,Griffin,Grace Griffin,Male,Yes,3,Graduate,No,341700,128700,20000000,360,1,Semiurban,Approved,3,42,Pennsylvania,Pittsburgh,Edgewood,Borough,15218,412
+LP002522,Daniel,Diaz,Daniel Diaz,Female,No,0,Graduate,Yes,159600,176000,11900000,360,0,Urban,Approved,29,6,California,Edwards,Edwards Afb,City,93523,661
+LP002524,Ruby,Hayes,Ruby Hayes,Male,No,2,Graduate,No,451300,0,12000000,360,1,Rural,Approved,71,12,Florida,Fort Myers Beach,Punta Rassa,City,33931,239
+LP002527,Anthony,Myers,Anthony Myers,Male,Yes,2,Graduate,Yes,450000,0,14000000,360,1,Rural,Approved,57,39,Ohio,Fairborn,Fairborn City,Village,45324,937
+LP002529,Evelyn,Ford,Evelyn Ford,Male,Yes,2,Graduate,No,452300,135000,16500000,300,1,Semiurban,Approved,119,55,Wisconsin,Gilman,Gilman,City,54433,715
+LP002530,Matthew,Hamilton,Matthew Hamilton,Female,Yes,2,Graduate,No,474200,0,10800000,360,0,Semiurban,Under Review,25,21,Kentucky,Jackson,Jackson City,City,41339,606
+LP002531,Clara,Graham,Clara Graham,Male,Yes,1,Graduate,Yes,408200,0,9300000,360,1,Semiurban,Approved,37,29,Missouri,Belton,Belton City,City,64012,816
+LP002533,Nicholas,Sullivan,Nicholas Sullivan,Male,Yes,2,Graduate,No,341700,0,10200000,360,1,Urban,Under Review,25,39,Ohio,Milford,Mount Repose,Village,45150,513
+LP002534,Hazel,Wallace,Hazel Wallace,Female,No,0,Not Graduate,No,292200,339600,12200000,360,1,Rural,Approved,57,39,Ohio,Fairborn,Fairborn City,Village,45324,937
+LP002536,Christopher,Woods,Christopher Woods,Male,Yes,3,Not Graduate,No,416700,475400,16000000,360,1,Rural,Approved,37,6,California,Los Angeles,West Hollywood City,City,90028,323
+LP002537,Lillian,Cole,Lillian Cole,Male,Yes,0,Graduate,No,424300,412300,15700000,360,1,Semiurban,Approved,157,48,Texas,Richmond,Pecan Grove,Town,77406,832
+LP002541,William,West,William West,Male,Yes,0,Graduate,No,100000,176000,18000000,360,1,Semiurban,Approved,3,32,Nevada,Las Vegas,Las Vegas City,City,89107,702
+LP002543,Grace,Jordan,Grace Jordan,Male,Yes,2,Graduate,No,151600,290000,8000000,360,1,Semiurban,Approved,119,36,New York,Mamaroneck,Mamaroneck,City,10543,914
+LP002544,Samuel,Owens,Samuel Owens,Male,Yes,1,Not Graduate,No,176200,266600,10400000,360,1,Rural,Approved,35,39,Ohio,Cuyahoga Heights,Garfield Heights City,Village,44125,216
+LP002545,Ruby,Reynolds,Ruby Reynolds,Male,No,2,Graduate,No,72400,351000,21300000,360,0,Rural,Under Review,57,36,New York,Fonda,Fultonville,City,12068,518
+LP002547,James,Fisher,James Fisher,Male,Yes,1,Graduate,No,312500,0,6500000,360,1,Urban,Under Review,111,47,Tennessee,Lafayette,Lafayette City,City,37083,615
+LP002555,Evelyn,Ellis,Evelyn Ellis,Male,Yes,2,Graduate,Yes,233300,380300,14600000,360,1,Semiurban,Approved,21,50,Vermont,Rutland,Rutland City,CDP,5701,802
+LP002556,Benjamin,Harrison,Benjamin Harrison,Male,No,0,Graduate,No,335000,156000,13500000,360,1,Urban,Under Review,47,36,New York,Brooklyn,New York City,City,11206,718
+LP002560,Clara,Medina,Clara Medina,Male,No,0,Not Graduate,No,250000,641400,18700000,360,1,Semiurban,Approved,17,4,Arizona,Cibecue,Carrizo,CDP,85911,928
+LP002562,David,Fowler,David Fowler,Male,Yes,1,Not Graduate,No,1250000,0,30000000,360,0,Urban,Approved,43,42,Pennsylvania,Harrisburg,Rutherford,Borough,17111,717
+LP002571,Hazel,Lawrence,Hazel Lawrence,Male,No,0,Not Graduate,No,466700,0,12000000,360,1,Rural,Approved,143,21,Kentucky,Eddyville,Kuttawa City,City,42038,270
+LP002582,Andrew,Robinson,Andrew Robinson,Female,No,0,Not Graduate,Yes,650000,0,7100000,360,1,Semiurban,Approved,3,32,Nevada,North Las Vegas,Winchester,City,89030,702
+LP002585,Lillian,Reyes,Lillian Reyes,Male,Yes,0,Graduate,No,750000,0,22500000,360,0,Rural,Under Review,35,17,Illinois,Toledo,Toledo,Village,62468,217
+LP002586,John,Jackson,John Jackson,Female,Yes,1,Graduate,No,307300,0,7000000,84,1,Semiurban,Approved,65,54,West Virginia,Berkeley Springs,Bath (berkeley Springs),City,25411,304
+LP002587,Grace,Robinson,Grace Robinson,Male,Yes,0,Not Graduate,No,332100,208800,7000000,360,1,Rural,Approved,37,27,Minnesota,South Saint Paul,South St. Paul City,City,55075,651
+LP002588,Robert,Fisher,Robert Fisher,Male,Yes,0,Graduate,No,333300,127000,12400000,12,1,Urban,Approved,99,12,Florida,Lake Worth,South Palm Beach,City,33460,561
+LP002600,Ruby,Wright,Ruby Wright,Male,Yes,1,Graduate,Yes,339100,0,13200000,360,1,Semiurban,Approved,87,36,New York,Blauvelt,Blauvelt,City,10913,845
+LP002602,Richard,Richardson,Richard Richardson,Male,No,0,Graduate,No,334300,151700,10500000,360,0,Rural,Under Review,1,11,District of Columbia,Washington,Washington City,City,20010,202
+LP002603,Evelyn,Mitchell,Evelyn Mitchell,Female,No,0,Graduate,No,362000,0,9000000,480,1,Rural,Approved,181,48,Texas,Denison,Denison City,Town,75020,903
+LP002606,William,Hayes,William Hayes,Female,No,0,Graduate,No,400000,0,8300000,360,1,Semiurban,Approved,471,48,Texas,Lewisville,Huntsville City,Town,75029,936
+LP002615,Clara,Collins,Clara Collins,Male,Yes,2,Graduate,No,425800,0,12500000,360,1,Semiurban,Approved,75,36,New York,Pulaski,Pulaski,City,13142,315
+LP002618,Charles,Perry,Charles Perry,Male,Yes,1,Not Graduate,No,450000,0,14700000,360,0,Rural,Under Review,97,1,Alabama,Prichard,Chickasaw City,Town,36610,251
+LP002619,Hazel,Lopez,Hazel Lopez,Male,Yes,0,Not Graduate,No,201400,292500,12000000,300,1,Semiurban,Approved,122,2,Alaska,Soldotna,Ridgeway,City,99669,907
+LP002622,Thomas,Adams,Thomas Adams,Male,Yes,2,Graduate,No,333300,125000,11000000,360,1,Rural,Approved,37,6,California,Baldwin Park,Baldwin Park City,City,91706,626
+LP002624,Lillian,Ellis,Lillian Ellis,Male,Yes,0,Graduate,No,408300,0,10300000,360,1,Urban,Approved,43,28,Mississippi,Grenada,Grenada City,CDP,38902,662
+LP002625,Matthew,Ortiz,Matthew Ortiz,Female,No,0,Graduate,No,472700,0,15000000,360,1,Urban,Under Review,31,17,Illinois,Willow Springs,Willow Springs,Village,60480,708
+LP002626,Grace,Mendoza,Grace Mendoza,Male,Yes,0,Graduate,Yes,308900,299900,10000000,360,1,Urban,Approved,5,23,Maine,Gorham,Gorham,City,4038,207
+LP002634,Brian,Fisher,Brian Fisher,Female,No,1,Graduate,No,679400,52800,13900000,360,1,Urban,Approved,73,6,California,San Diego,San Diego City,City,92122,858
+LP002637,Ruby,Gomez,Ruby Gomez,Male,No,0,Not Graduate,No,3200000,0,55000000,360,1,Rural,Under Review,71,37,North Carolina,Gastonia,Dallas,Village,28052,704
+LP002640,Steven,Woods,Steven Woods,Male,Yes,1,Graduate,No,1089000,0,26000000,360,1,Semiurban,Approved,105,40,Oklahoma,South Coffeyville,South Coffeyville,CDP,74072,918
+LP002643,Evelyn,Kelly,Evelyn Kelly,Male,Yes,2,Graduate,No,1294100,0,15000000,360,1,Urban,Approved,27,1,Alabama,Sycamore,Millerville,Town,35149,256
+LP002648,Jonathan,Tucker,Jonathan Tucker,Male,Yes,0,Graduate,No,327600,0,9000000,180,1,Semiurban,Under Review,103,36,New York,West Babylon,Babylon,City,11704,631
+LP002652,Clara,Henry,Clara Henry,Male,No,0,Graduate,No,870300,0,19900000,360,1,Rural,Under Review,510,24,Maryland,Baltimore,Baltimore City,CDP,21213,410
+LP002659,Daniel,Cole,Daniel Cole,Male,Yes,3,Graduate,No,474200,71700,13900000,360,1,Rural,Approved,85,6,California,Santa Clara,Santa Clara City,City,95051,408
+LP002670,Hazel,West,Hazel West,Female,Yes,2,Graduate,No,590000,0,15000000,480,1,Semiurban,Approved,79,55,Wisconsin,Milwaukee,St. Francis City,City,53215,414
+LP002682,Michael,Phillips,Michael Phillips,Male,Yes,0,Not Graduate,No,307100,430900,18000000,360,0,Semiurban,Under Review,13,6,California,Concord,Contra Costa Centre,City,94518,925
+LP002683,Lillian,Perez,Lillian Perez,Male,No,0,Graduate,No,278300,145600,11300000,360,1,Semiurban,Under Review,69,36,New York,Geneva,Geneva City,City,14456,315
+LP002684,Patrick,Foster,Patrick Foster,Female,No,0,Not Graduate,No,500000,0,14800000,360,1,Rural,Under Review,73,13,Georgia,Martinez,Martinez,City,30907,706
+LP002689,Grace,Morris,Grace Morris,Male,Yes,2,Not Graduate,No,246300,236000,11700000,360,1,Semiurban,Approved,97,17,Illinois,Round Lake,Round Lake,Village,60073,870
+LP002690,Kevin,Diaz,Kevin Diaz,Male,No,0,Graduate,No,485500,0,7200000,360,1,Semiurban,Approved,15,1,Alabama,Jacksonville,Glencoe City,Town,36265,256
+LP002692,Ruby,Johnson,Ruby Johnson,Male,Yes,3,Graduate,Yes,159900,247400,12500000,360,1,Rural,Approved,77,42,Pennsylvania,Allentown,Allentown City,Borough,18102,484
+LP002693,Thomas,Marshall,Thomas Marshall,Male,Yes,2,Graduate,Yes,424600,424600,21400000,360,1,Rural,Approved,27,48,Texas,Killeen,Killeen City,Town,76543,254
+LP002697,Evelyn,Rose,Evelyn Rose,Male,No,0,Graduate,No,433300,229100,13300000,360,1,Semiurban,Under Review,25,55,Wisconsin,Madison,Shorewood Hills,City,53726,608
+LP002699,Timothy,Ramos,Timothy Ramos,Male,Yes,2,Graduate,Yes,582300,252900,18700000,360,1,Rural,Approved,71,22,Louisiana,New Orleans,New Orleans City,City,70126,504
+LP002705,Alan,Jenkins,Alan Jenkins,Male,Yes,0,Graduate,No,789500,0,14300000,360,1,Semiurban,Approved,61,53,Washington,N. Lakewood,Lake Goodwin,Town,98259,360
+LP002706,Grace,Cooper,Grace Cooper,Male,Yes,1,Not Graduate,No,415000,425600,20900000,360,0,Semiurban,Approved,25,24,Maryland,Aberdeen,Aberdeen City,CDP,21001,410
+LP002714,Carolyn,Sullivan,Carolyn Sullivan,Male,No,1,Not Graduate,No,296400,0,8400000,360,1,Semiurban,Approved,57,53,Washington,Mount Vernon,Mount Vernon City,Town,98273,360
+LP002716,Diana,Flores,Diana Flores,Male,No,0,Not Graduate,No,558300,0,11600000,360,1,Semiurban,Approved,13,4,Arizona,Phoenix,Paradise Valley,CDP,85008,602
+LP002717,Walter,Bell,Walter Bell,Male,Yes,0,Graduate,No,270800,0,6500000,360,0,Rural,Approved,59,51,Virginia,Oakton,Oakton,Town,22124,703
+LP002720,Raymond,Graham,Raymond Graham,Male,Yes,3,Graduate,No,318000,237000,8000000,360,1,Urban,Approved,189,48,Texas,Plainview,Plainview City,Town,79072,806
+LP002723,Virginia,Foster,Virginia Foster,Male,No,2,Graduate,No,226800,0,17000000,360,0,Rural,Under Review,21,26,Michigan,Benton Harbor,Benton Harbor City,CDP,49022,269
+LP002729,Troy,Barnes,Troy Barnes,Male,No,1,Graduate,No,114100,201700,12000000,360,1,Semiurban,Under Review,81,36,New York,Corona,Harbor Hills,City,11368,718
+LP002731,Frances,Bailey,Frances Bailey,Female,No,0,Not Graduate,Yes,304200,316700,13500000,360,1,Urban,Approved,439,48,Texas,Arlington,Arlington City,Town,76014,682
+LP002732,Claire,Bennett,Claire Bennett,Male,No,0,Not Graduate,Yes,175000,293500,9400000,360,1,Rural,Approved,3,42,Pennsylvania,Munhall,Munhall,Borough,15120,412
+LP002734,Marjorie,Campbell,Marjorie Campbell,Male,Yes,0,Graduate,No,356400,0,7900000,360,1,Urban,Approved,27,4,Arizona,Yuma,Avenue B And C,CDP,85364,928
+LP002738,Rick,Hayes,Rick Hayes,Male,No,2,Graduate,No,395800,0,11000000,360,1,Semiurban,Approved,209,20,Kansas,Kansas City,Kansas City City,City,66109,913
+LP002739,Lorraine,Parker,Lorraine Parker,Male,Yes,0,Not Graduate,No,448300,0,13000000,360,1,Rural,Under Review,45,47,Tennessee,Newbern,Newbern,City,38059,731
+LP002740,Sherry,Rogers,Sherry Rogers,Male,Yes,3,Graduate,No,522500,0,14300000,180,1,Rural,Approved,81,39,Ohio,Steubenville,Steubenville City,Village,43952,740
+LP002741,Priscilla,Fisher,Priscilla Fisher,Female,Yes,1,Graduate,No,301700,284500,15900000,180,1,Semiurban,Approved,13,6,California,Discovery Bay,Discovery Bay,City,94505,925
+LP002743,Leslie,Reed,Leslie Reed,Female,No,0,Graduate,No,243100,182000,11000000,360,0,Semiurban,Under Review,175,20,Kansas,Liberal,Liberal City,City,67905,620
+LP002753,Desmond,Powell,Desmond Powell,Female,No,1,Graduate,No,491200,461400,16000000,360,1,Semiurban,Approved,37,6,California,Chatsworth,Santa Susana,City,91311,818
+LP002755,Curtis,Torres,Curtis Torres,Male,Yes,1,Not Graduate,No,250000,333300,13100000,360,1,Urban,Approved,31,29,Missouri,Oak Ridge,Pocahontas,City,63769,573
+LP002757,Barry,Harrison,Barry Harrison,Female,Yes,0,Not Graduate,No,291800,0,6500000,360,0,Semiurban,Approved,125,40,Oklahoma,Shawnee,Tecumseh City,CDP,74801,405
+LP002767,Wendell,Smith,Wendell Smith,Male,Yes,0,Graduate,No,512800,0,14300000,360,1,Rural,Approved,67,54,West Virginia,Richwood,Richwood City,City,26261,304
+LP002768,Reginald,Baker,Reginald Baker,Male,No,0,Not Graduate,No,1531200,0,18700000,36,1,Semiurban,Under Review,61,36,New York,New York,New York City,City,10016,212
+LP002772,Sabrina,Ward,Sabrina Ward,Male,No,0,Graduate,No,395800,263200,16000000,360,1,Rural,Approved,95,17,Illinois,Galesburg,Galesburg City,Village,61401,309
+LP002776,Yvonne,Turner,Yvonne Turner,Female,No,0,Graduate,No,433400,294500,16500000,360,0,Semiurban,Under Review,37,6,California,Lake View Terrace,San Fernando City,City,91342,818
+LP002777,Miriam,Alexander,Miriam Alexander,Male,Yes,0,Graduate,No,435800,0,11000000,360,1,Rural,Approved,27,48,Texas,Killeen,Killeen City,Town,76543,254
+LP002778,Georgia,Richardson,Georgia Richardson,Male,Yes,2,Graduate,Yes,400000,391700,17300000,360,0,Rural,Under Review,19,6,California,Clovis,Tarpey Village,City,93612,559
+LP002784,Alejandro,Foster,Alejandro Foster,Male,Yes,1,Not Graduate,No,1016600,75000,15000000,360,1,Rural,Approved,31,17,Illinois,Hillside,Hillside,Village,60162,708
+LP002785,Diego,Rodriguez,Diego Rodriguez,Male,Yes,1,Graduate,No,448300,0,13500000,360,1,Urban,Approved,133,39,Ohio,Mantua,Mantua,Village,44255,330
+LP002788,Irene,Watson,Irene Watson,Male,Yes,0,Not Graduate,No,452100,118400,15000000,360,0,Urban,Under Review,85,22,Louisiana,Negreet,Florien,City,71460,318
+LP002789,Stella,Stewart,Stella Stewart,Male,Yes,0,Graduate,No,916700,0,23500000,180,0,Rural,Under Review,25,34,New Jersey,Red Bank,Fairview,City,7701,732
+LP002792,Herbert,Price,Herbert Price,Male,Yes,1,Graduate,No,1308300,0,0,360,1,Semiurban,Approved,153,31,Nebraska,Omaha,Chalco,Village,68137,402
+LP002794,Carlton,Coleman,Carlton Coleman,Female,No,0,Graduate,No,787400,396700,33600000,360,0,Urban,Approved,21,25,Massachusetts,Weymouth,Weymouth Town City,City,2188,781
+LP002795,Claude,Morales,Claude Morales,Male,Yes,3,Graduate,Yes,433300,0,13200000,360,1,Semiurban,Approved,107,17,Illinois,Lincoln,Broadwell,Village,62656,217
+LP002798,Beatrice,Long,Beatrice Long,Male,Yes,0,Graduate,No,408300,0,9600000,360,1,Semiurban,Approved,95,12,Florida,Orlando,Pine Hills,City,32818,407
+LP002804,Connie,Howard,Connie Howard,Female,Yes,0,Graduate,No,378500,291200,18000000,360,1,Semiurban,Approved,99,54,West Virginia,Huntington,Ceredo City,City,25704,304
+LP002807,Faye,Cox,Faye Cox,Male,Yes,2,Not Graduate,No,265400,199800,12800000,360,1,Semiurban,Approved,31,17,Illinois,Niles,Park Ridge City,Village,60714,847
+LP002813,Jacqueline,Peterson,Jacqueline Peterson,Female,Yes,1,Graduate,Yes,1000000,269000,41200000,360,1,Semiurban,Approved,33,45,South Carolina,Dillon,Dillon City,City,29536,843
+LP002820,Lydia,Patterson,Lydia Patterson,Male,Yes,0,Graduate,No,583300,0,11600000,360,1,Rural,Approved,135,37,North Carolina,Saxapahaw,Saxapahaw,Village,27340,336
+LP002821,Ron,Jenkins,Ron Jenkins,Male,No,0,Not Graduate,Yes,479600,0,11400000,360,1,Semiurban,Approved,133,55,Wisconsin,Oconomowoc,Lac La Belle,City,53066,262
+LP002832,Arnold,Simmons,Arnold Simmons,Male,Yes,2,Graduate,No,200000,160000,11500000,360,0,Urban,Under Review,3,72,Puerto Rico,Aguada,Luyando,Urban,602,787
+LP002833,Pedro,Murphy,Pedro Murphy,Male,Yes,0,Not Graduate,No,254000,70000,10400000,360,1,Rural,Approved,1,1,Alabama,Prattville,Prattville City,Town,36066,334
+LP002836,Felix,Cole,Felix Cole,Male,No,0,Graduate,No,190000,144200,8800000,360,1,Urban,Approved,86,12,Florida,Miami Springs,Miami Springs City,City,33166,305
+LP002837,Nora,Gonzalez,Nora Gonzalez,Male,Yes,3,Graduate,No,870600,0,10800000,360,0,Rural,Under Review,355,48,Texas,Corpus Christi,Tierra Grande,Town,78415,361
+LP002840,Philip,Gonzalez,Philip Gonzalez,Female,No,0,Graduate,No,285500,54200,9000000,360,1,Urban,Under Review,103,1,Alabama,Decatur,Decatur City,Town,35603,256
+LP002841,Marcus,Ross,Marcus Ross,Male,Yes,0,Graduate,No,301600,130000,10000000,360,0,Urban,Under Review,111,36,New York,Accord,Stone Ridge,City,12404,845
+LP002842,Angel,Flores,Angel Flores,Male,Yes,1,Graduate,No,315900,237400,10800000,360,1,Urban,Approved,81,36,New York,Queens Village,Bellerose Terrace,City,11428,718
+LP002847,Elsa,Medina,Elsa Medina,Male,Yes,2,Graduate,No,193700,115200,7800000,360,0,Urban,Under Review,13,4,Arizona,Glendale,Glendale City,CDP,85304,602
+LP002855,Colleen,Rivera,Colleen Rivera,Male,Yes,2,Graduate,No,261300,241700,12300000,360,1,Urban,Approved,49,42,Pennsylvania,Erie,Erie City,Borough,16505,814
+LP002862,Jermaine,Gray,Jermaine Gray,Male,Yes,2,Not Graduate,No,496000,260000,18700000,480,1,Semiurban,Under Review,97,1,Alabama,Mobile,Mobile City,Town,36617,251
+LP002863,Ollie,Richardson,Ollie Richardson,Male,Yes,3,Graduate,No,307400,108300,14600000,360,1,Semiurban,Under Review,15,36,New York,Elmira,West Elmira,City,14905,607
+LP002868,Raul,Price,Raul Price,Male,Yes,2,Graduate,No,421300,0,8000000,84,1,Urban,Approved,331,48,Texas,Thorndale,Thorndale City,Town,76577,512
+LP002872,Elvira,James,Elvira James,Male,Yes,0,Graduate,No,203800,402700,10000000,360,0,Semiurban,Under Review,121,12,Florida,Live Oak,Live Oak City,City,32064,386
+LP002874,Sherri,Foster,Sherri Foster,Male,No,0,Graduate,No,236200,0,5500000,360,1,Urban,Approved,45,45,South Carolina,Piedmont,Gantt,City,29673,864
+LP002877,Joaquin,Carter,Joaquin Carter,Male,Yes,1,Graduate,No,533300,240000,20000000,360,1,Rural,Approved,93,8,Colorado,Bailey,Upper Bear Creek,City,80421,303
+LP002888,Renee,Perry,Renee Perry,Male,No,0,Graduate,Yes,538400,0,15000000,360,1,Urban,Approved,15,42,Pennsylvania,Wyalusing,New Albany,Borough,18853,570
+LP002892,Lupe,Tucker,Lupe Tucker,Male,Yes,2,Graduate,No,570800,0,15000000,360,1,Semiurban,Approved,97,72,Puerto Rico,Mayaguez,Mayagüez,Urban,682,787
+LP002893,Dewey,Bennett,Dewey Bennett,Male,No,0,Graduate,No,375400,371900,11800000,360,1,Urban,Under Review,355,48,Texas,Corpus Christi,Tierra Grande,Town,78413,361
+LP002894,Emilio,Henry,Emilio Henry,Female,Yes,0,Graduate,No,291400,213000,15000000,360,1,Semiurban,Approved,111,21,Kentucky,Louisville,Louisville/jefferson,City,40218,502
+LP002898,Jamie,Robinson,Jamie Robinson,Male,Yes,1,Graduate,No,274700,245800,11800000,360,1,Rural,Under Review,1,22,Louisiana,Church Point,Church Point,City,70525,337
+LP002911,Miranda,Lewis,Miranda Lewis,Male,Yes,1,Graduate,No,783000,218300,21200000,360,0,Rural,Under Review,201,48,Texas,Houston,Aldine,Town,77038,281
+LP002912,Tyrone,Wright,Tyrone Wright,Male,Yes,1,Graduate,No,350700,314800,21200000,84,1,Rural,Under Review,107,54,West Virginia,Parkersburg,Parkersburg City,City,26101,304
+LP002916,Lesley,Collins,Lesley Collins,Male,Yes,0,Graduate,No,374700,213900,12500000,360,1,Urban,Approved,119,17,Illinois,Saint Jacob,St. Jacob,Village,62281,618
+LP002917,Loretta,Adams,Loretta Adams,Female,No,0,Not Graduate,No,216600,216600,10800000,360,1,Semiurban,Approved,215,48,Texas,Mission,Abram,Town,78572,956
+LP002925,Alfredo,Stewart,Alfredo Stewart,Male,No,0,Graduate,No,350000,216800,14900000,360,1,Semiurban,Approved,53,53,Washington,Tacoma,Midland,Town,98408,253
+LP002926,Estelle,Fisher,Estelle Fisher,Male,Yes,2,Graduate,Yes,289600,0,8000000,360,0,Semiurban,Under Review,29,48,Texas,San Antonio,Windcrest City,Town,78217,210
+LP002928,Dwayne,Kelly,Dwayne Kelly,Male,Yes,0,Graduate,No,506200,0,15200000,180,1,Semiurban,Approved,17,34,New Jersey,Jersey City,Jersey City City,City,7305,201
+LP002931,Antoinette,Barnes,Antoinette Barnes,Male,Yes,2,Graduate,Yes,518400,0,18700000,240,1,Semiurban,Under Review,321,13,Georgia,Sylvester,Sylvester City,City,31791,229
+LP002933,Brandy,Robinson,Brandy Robinson,Female,No,3,Graduate,Yes,254500,0,7400000,360,1,Semiurban,Approved,33,12,Florida,Pensacola,Bellview,City,32526,850
+LP002936,Lonnie,Cook,Lonnie Cook,Male,Yes,0,Graduate,No,255300,176800,10200000,180,1,Rural,Approved,85,37,North Carolina,Angier,Buies Creek,Village,27501,919
+LP002938,Monte,Harrison,Monte Harrison,Male,Yes,0,Graduate,Yes,343600,380900,10000000,360,1,Urban,Approved,213,13,Georgia,Chatsworth,Chatsworth City,City,30705,706
+LP002940,Gloria,Jordan,Gloria Jordan,Male,No,0,Not Graduate,No,241200,275500,13000000,360,1,Rural,Approved,193,20,Kansas,Oakley,Oakley City,City,67748,785
+LP002941,Darrell,Mitchell,Darrell Mitchell,Male,Yes,2,Not Graduate,Yes,518000,0,12500000,360,1,Rural,Under Review,95,12,Florida,Orlando,Rio Pinar,City,32825,407
+LP002943,Eileen,Hayes,Eileen Hayes,Male,No,0,Graduate,No,1491100,1450700,13000000,360,0,Semiurban,Under Review,367,48,Texas,Weatherford,Springtown City,Town,76087,817
+LP002945,Krista,Hernandez,Krista Hernandez,Male,Yes,0,Graduate,Yes,286000,298800,13800000,360,1,Rural,Approved,105,12,Florida,Winter Haven,Cypress Gardens,City,33884,863
+LP002948,Eldon,Jenkins,Eldon Jenkins,Male,Yes,2,Graduate,No,117300,159400,2800000,360,1,Urban,Approved,157,37,North Carolina,Reidsville,Madison,Village,27320,336
+LP002949,Elise,Gonzalez,Elise Gonzalez,Female,No,3,Graduate,Yes,760000,0,9200000,180,1,Urban,Under Review,61,35,New Mexico,Belen,Sausal,City,87002,505
+LP002950,Sonia,Lewis,Sonia Lewis,Male,Yes,0,Not Graduate,Yes,215700,178800,10400000,360,1,Rural,Approved,67,51,Virginia,Wirtz,North Shore,Town,24184,540
+LP002953,Regan,Carter,Regan Carter,Male,Yes,3,Graduate,No,223100,277400,17600000,360,1,Urban,Approved,63,53,Washington,Spokane,Spokane City,Town,99205,509
+LP002958,Braden,Turner,Braden Turner,Male,No,0,Graduate,No,227400,521100,11700000,360,1,Rural,Approved,740,51,Virginia,Portsmouth,Portsmouth City,Town,23703,757
+LP002959,Clarissa,Price,Clarissa Price,Female,Yes,1,Graduate,No,616600,1398300,10200000,360,1,Semiurban,Approved,113,48,Texas,Dallas,Dallas City,Town,75201,972
+LP002960,Melvin,Foster,Melvin Foster,Male,Yes,0,Not Graduate,No,251300,111000,10700000,180,1,Urban,Under Review,299,13,Georgia,Waycross,Argyle,City,31503,912
+LP002961,Saul,Parker,Saul Parker,Male,Yes,1,Graduate,No,433300,0,6600000,360,1,Semiurban,Approved,61,36,New York,New York,New York City,City,10009,212
+LP002964,Louisa,Fisher,Louisa Fisher,Male,Yes,2,Not Graduate,No,384400,0,10500000,360,1,Rural,Approved,95,29,Missouri,Independnce,Randolph,City,64053,816
+LP002974,Elaine,Brooks,Elaine Brooks,Male,Yes,0,Graduate,No,388700,151700,10500000,360,1,Rural,Approved,59,51,Virginia,Alexandria,Huntington,Town,22303,703
+LP002978,Malik,Reed,Malik Reed,Female,No,0,Graduate,No,351000,82800,10500000,360,1,Rural,Approved,23,39,Ohio,Springfield,Springfield City,Village,45505,937
+LP002979,Krista,Harrison,Krista Harrison,Male,Yes,3,Graduate,No,253900,170400,12500000,180,1,Rural,Approved,37,47,Tennessee,Nashville,Forest Hills City,City,37215,615
+LP002983,Eldon,Jordan,Eldon Jordan,Male,Yes,1,Graduate,No,210700,0,6400000,360,1,Urban,Approved,143,51,Virginia,Chatham,Chatham,Town,24531,434
+LP002984,Elise,Mitchell,Elise Mitchell,Male,Yes,2,Graduate,No,318600,314500,15000000,360,1,Urban,Approved,97,18,Indiana,Indianapolis,Lawrence City,City,46256,317
+LP002990,Louisa,Hayes,Louisa Hayes,Female,No,0,Graduate,Yes,500000,216600,15000000,360,0,Semiurban,Under Review,17,34,New Jersey,Jersey City,Hoboken City,City,7307,201
