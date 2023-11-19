@@ -1,4 +1,4 @@
-# U.S. Mortgage Exploratory Data Analysis Project - Excel, SQL, POWER BI, PYTHON
+# U.S. Mortgage Corporation EDA Project - Excel, SQL, POWER BI, PYTHON
 
 ![image](https://github.com/Yo3110/EDA_U.S_Mortgage_Corporation/assets/143214362/284ae47a-132c-483e-9610-65cdfdcb5ee9)
 ![image](https://github.com/Yo3110/EDA_U.S_Mortgage_Corporation/assets/143214362/331210d1-44e7-4b64-9a94-70440d804685)
