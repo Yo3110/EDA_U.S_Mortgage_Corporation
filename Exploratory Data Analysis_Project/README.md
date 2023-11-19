@@ -7,7 +7,10 @@
 ![image](https://github.com/Yo3110/EDA_U.S_Mortgage_Corporation/assets/143214362/6f62dfb5-ab4c-4745-a0ea-6229636cf3b1)
 
 # Data Used
-Data: 
+Data: [U.S Mortgage_Corporation](https://drive.google.com/drive/u/0/folders/1Zvg5VCGqwS6xu656MHirEEALXn3vPKSU)
+
+Dashboard LInk: [U.S Mortgage_Dashboard](https://github.com/Yo3110/EDA_U.S_Mortgage_Corporation/blob/main/Exploratory%20Data%20Analysis_Project/EDA_U.%20S%20Mortgage_PowerBI.pbix) 
+
 
 ## Project Objectives
 
