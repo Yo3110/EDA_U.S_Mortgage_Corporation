@@ -14,7 +14,7 @@ Dashboard LInk: [U.S Mortgage_Dashboard](https://github.com/Yo3110/EDA_U.S_Mortg
 Power Point Link: [U.S Mortgage_PPT](https://drive.google.com/drive/u/0/folders/10YGCzr66X6cIZaDd7fTL0FULO9Cpeeto)
 
 
-## Project Objectives
+## ✳️Project Objectives
 
 To perform an in-depth exploratory data analysis on the U.S. Mortgage Corporation's historical data to gain insights into the company's mortgage activities, identify patterns, and understand key factors influencing its performance.
 
@@ -25,6 +25,64 @@ SQL Data Manipulation: Leverage SQL to manipulate and extract relevant informati
 Power BI Visualization: Utilize Power BI to create interactive and insightful visualizations, enabling a dynamic exploration of mortgage data patterns.
 
 Python Enhancement: Apply Python, including Pandas, NumPy, and Matplotlib, for advanced data analysis and visualization, enhancing the depth and detail of insights
+
+## ✳️Business Problem
+
+The U.S. Mortgage Corporation is experiencing a decline in mortgage origination and wants to understand the factors contributing to this trend. The company is also interested in identifying opportunities for growth and improving operational efficiency.
+
+## ✳️Solution
+
+Conduct an exploratory data analysis (EDA) on the historical mortgage data of the U.S. Mortgage Corporation to gain insights into the patterns, trends, and key factors influencing mortgage origination. The goal is to provide actionable recommendations for boosting origination, mitigating risks, and optimizing operations.
+
+## ✳️Steps Followed in this Project
+
+Data Collection:
+Gather historical mortgage data from the U.S. Mortgage Corporation's databases, ensuring data completeness and accuracy.
+
+Data Cleaning and Preprocessing:
+Clean and preprocess the data to handle missing values, outliers, and ensure data consistency. Transform the data into a format suitable for analysis.
+
+Exploratory Data Analysis:
+Perform exploratory data analysis to uncover patterns and trends in mortgage origination. Use statistical and visual methods to gain insights into various aspects of the business.
+
+Mortgage Origination Trends:
+Analyze trends in mortgage origination over different time periods and identify potential contributing factors.
+
+Geographic Analysis:
+Explore the geographic distribution of mortgage activities to understand regional variations and potential market opportunities.
+
+Loan Characteristics Analysis:
+Break down mortgage loans by types and characteristics, such as loan amount, term, and interest rates. Identify popular loan products.
+
+Credit Risk Assessment:
+Evaluate credit risk by analyzing credit scores of borrowers and default rates. Assess the impact of creditworthiness on origination.
+
+Market and Economic Influences:
+Investigate how market interest rates, economic indicators, and regulatory changes impact mortgage origination.
+
+Customer Segmentation:
+Segment customers based on demographic and financial criteria. Understand the preferences and behaviors of different customer segments.
+
+Technology and Operational Efficiency:
+Analyze the corporation's adoption of technology and its impact on operational efficiency in mortgage processes.
+
+## ✳️Tasks
+
+Data cleaning and preprocessing
+
+Exploratory data analysis
+
+Geographic analysis
+
+Loan characteristics analysis
+
+Credit risk assessment
+
+Market and economic analysis
+
+Customer segmentation
+
+Technology and operational efficiency analysis
 
 # 🎯Key Insights
 
