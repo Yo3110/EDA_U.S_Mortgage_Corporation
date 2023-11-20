@@ -11,6 +11,8 @@ Data: [U.S Mortgage_Corporation](https://drive.google.com/drive/u/0/folders/1Zvg
 
 Dashboard LInk: [U.S Mortgage_Dashboard](https://github.com/Yo3110/EDA_U.S_Mortgage_Corporation/blob/main/Exploratory%20Data%20Analysis_Project/EDA_U.%20S%20Mortgage_PowerBI.pbix) 
 
+Power Point Link: [U.S Mortgage_PPT](https://drive.google.com/drive/u/0/folders/10YGCzr66X6cIZaDd7fTL0FULO9Cpeeto)
+
 
 ## Project Objectives
 
